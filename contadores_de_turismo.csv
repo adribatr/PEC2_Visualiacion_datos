@@ -1,0 +1,1872 @@
+MES;CONTADOR;CONTADOR_TIPO;CONTADOR_SENTIDO;ZONA;NUMERO
+01/01/2019;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;3764
+01/01/2019;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;185
+01/01/2019;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;896
+01/01/2019;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;1864
+01/01/2019;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Estella;Vías Verdes - Eurovelo;863
+01/01/2019;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;120
+01/01/2019;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;8
+01/01/2019;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;554
+01/01/2019;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;211
+01/01/2019;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;2549
+01/01/2019;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;56
+01/01/2019;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;337
+01/01/2019;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;1
+01/01/2019;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;1
+01/01/2019;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;1522
+01/01/2019;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;55
+01/01/2019;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;59
+01/01/2019;Urederra;Peatones;Vuelta;Recursos turístico ;2456
+01/01/2019;Las Roscas;Peatones;Vuelta;Recursos turístico ;2246
+01/01/2019;Xorroxin;Peatones;Ida;Recursos turístico ;256
+01/01/2019;Amaiur;Peatones;Ida;Recursos turístico ;2234
+01/02/2019;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Pamplona;Vías Verdes - Eurovelo;3266
+01/02/2019;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;608
+01/02/2019;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1054
+01/02/2019;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;1920
+01/02/2019;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;141
+01/02/2019;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Estella;Vías Verdes - Eurovelo;647
+01/02/2019;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;112
+01/02/2019;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Álava;Vías Verdes - Eurovelo;418
+01/02/2019;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;666
+01/02/2019;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;145
+01/02/2019;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;5582
+01/02/2019;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;177
+01/02/2019;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;424
+01/02/2019;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;11
+01/02/2019;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;1078
+01/02/2019;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;135
+01/02/2019;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;319
+01/02/2019;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;660
+01/02/2019;Urederra;Peatones;Vuelta;Recursos turístico ;4687
+01/02/2019;Las Roscas;Peatones;Ida;Recursos turístico ;1065
+01/02/2019;Xorroxin;Peatones;Ida;Recursos turístico ;504
+01/02/2019;Amaiur;Peatones;Ida;Recursos turístico ;3524
+01/03/2019;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Pamplona;Vías Verdes - Eurovelo;5343
+01/03/2019;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;963
+01/03/2019;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1275
+01/03/2019;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;3666
+01/03/2019;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Pamplona;Vías Verdes - Eurovelo;329
+01/03/2019;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Estella;Vías Verdes - Eurovelo;1220
+01/03/2019;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;229
+01/03/2019;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Álava;Vías Verdes - Eurovelo;532
+01/03/2019;Via Verde Tarazonica (Cascante);Peatones;Cascante - Tudela ;Vías Verdes - Eurovelo;388
+01/03/2019;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Tudela ;Vías Verdes - Eurovelo;75
+01/03/2019;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;13994
+01/03/2019;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;65
+01/03/2019;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;1938
+01/03/2019;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;79
+01/03/2019;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;3086
+01/03/2019;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;102
+01/03/2019;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;284
+01/03/2019;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;1179
+01/03/2019;Urederra;Peatones;Ida;Recursos turístico ;8822
+01/03/2019;Las Roscas;Peatones;Ida;Recursos turístico ;3021
+01/03/2019;Xorroxin;Peatones;Ida;Recursos turístico ;1128
+01/03/2019;Amaiur;Peatones;Ida;Recursos turístico ;5671
+01/04/2019;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Pamplona;Vías Verdes - Eurovelo;13138
+01/04/2019;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;997
+01/04/2019;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1140
+01/04/2019;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;6796
+01/04/2019;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;497
+01/04/2019;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Estella;Vías Verdes - Eurovelo;2324
+01/04/2019;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;306
+01/04/2019;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Álava;Vías Verdes - Eurovelo;450
+01/04/2019;Via Verde Tarazonica (Cascante);Peatones;Cascante - Tudela ;Vías Verdes - Eurovelo;81
+01/04/2019;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Tudela ;Vías Verdes - Eurovelo;8
+01/04/2019;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;12757
+01/04/2019;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;281
+01/04/2019;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;9579
+01/04/2019;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;342
+01/04/2019;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;10128
+01/04/2019;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;185
+01/04/2019;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;218
+01/04/2019;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;1492
+01/04/2019;Urederra;Peatones;Ida;Recursos turístico ;9607
+01/04/2019;Las Roscas;Peatones;Ida;Recursos turístico ;1734
+01/04/2019;Xorroxin;Peatones;Ida;Recursos turístico ;1898
+01/04/2019;Amaiur;Peatones;Ida;Recursos turístico ;7004
+01/05/2019;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;9042
+01/05/2019;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;1207
+01/05/2019;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Pamplona;Vías Verdes - Eurovelo;1822
+01/05/2019;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;5899
+01/05/2019;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;521
+01/05/2019;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Estella;Vías Verdes - Eurovelo;6059
+01/05/2019;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;289
+01/05/2019;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;522
+01/05/2019;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;19
+01/05/2019;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;8
+01/05/2019;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;9240
+01/05/2019;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;448
+01/05/2019;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;12072
+01/05/2019;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;634
+01/05/2019;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;60
+01/05/2019;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;13850
+01/05/2019;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;296
+01/05/2019;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;187
+01/05/2019;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;1665
+01/05/2019;Urederra;Peatones;Vuelta;Recursos turístico ;7275
+01/05/2019;Las Roscas;Peatones;Ida;Recursos turístico ;2141
+01/05/2019;Xorroxin;Peatones;Ida;Recursos turístico ;890
+01/05/2019;Amaiur;Peatones;Ida;Recursos turístico ;4578
+01/06/2019;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;9136
+01/06/2019;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;1153
+01/06/2019;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1139
+01/06/2019;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;4853
+01/06/2019;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;522
+01/06/2019;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Estella;Vías Verdes - Eurovelo;5416
+01/06/2019;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;332
+01/06/2019;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Álava;Vías Verdes - Eurovelo;526
+01/06/2019;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;922
+01/06/2019;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;238
+01/06/2019;Vía Verde Irati (Foz Lumbier);Peatones;Liédena - Lumbier;Vías Verdes - Eurovelo;10039
+01/06/2019;Vía Verde Irati (Foz Lumbier);Bicicletas;Liédena - Lumbier;Vías Verdes - Eurovelo;355
+01/06/2019;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;9244
+01/06/2019;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;481
+01/06/2019;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;1
+01/06/2019;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;6769
+01/06/2019;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;142
+01/06/2019;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;252
+01/06/2019;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;2042
+01/06/2019;Urederra;Peatones;Ida;Recursos turístico ;8797
+01/06/2019;Las Roscas;Peatones;Vuelta;Recursos turístico ;1266
+01/06/2019;Xorroxin;Peatones;Vuelta;Recursos turístico ;2747
+01/06/2019;Amaiur;Peatones;Ida;Recursos turístico ;6287
+01/07/2019;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Pamplona;Vías Verdes - Eurovelo;3947
+01/07/2019;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;1821
+01/07/2019;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1620
+01/07/2019;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;3259
+01/07/2019;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;749
+01/07/2019;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Estella;Vías Verdes - Eurovelo;8262
+01/07/2019;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;399
+01/07/2019;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Álava;Vías Verdes - Eurovelo;498
+01/07/2019;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;1351
+01/07/2019;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;326
+01/07/2019;Vía Verde Irati (Foz Lumbier);Peatones;Liédena - Lumbier;Vías Verdes - Eurovelo;11009
+01/07/2019;Vía Verde Irati (Foz Lumbier);Bicicletas;Liédena - Lumbier;Vías Verdes - Eurovelo;567
+01/07/2019;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;7522
+01/07/2019;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;430
+01/07/2019;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;7021
+01/07/2019;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;60
+01/07/2019;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;204
+01/07/2019;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;1587
+01/07/2019;Urederra;Peatones;Ida;Recursos turístico ;11966
+01/07/2019;Las Roscas;Peatones;Vuelta;Recursos turístico ;338
+01/07/2019;Xorroxin;Peatones;Vuelta;Recursos turístico ;5059
+01/07/2019;Amaiur;Peatones;Ida;Recursos turístico ;6984
+01/08/2019;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Pamplona;Vías Verdes - Eurovelo;4938
+01/08/2019;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;2243
+01/08/2019;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1451
+01/08/2019;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;5199
+01/08/2019;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;1190
+01/08/2019;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Estella;Vías Verdes - Eurovelo;10283
+01/08/2019;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;635
+01/08/2019;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Álava;Vías Verdes - Eurovelo;495
+01/08/2019;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;1794
+01/08/2019;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;397
+01/08/2019;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;22306
+01/08/2019;Vía Verde Irati (Foz Lumbier);Bicicletas;Liédena - Lumbier;Vías Verdes - Eurovelo;697
+01/08/2019;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;7353
+01/08/2019;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;566
+01/08/2019;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;6895
+01/08/2019;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;33
+01/08/2019;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;96
+01/08/2019;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;2795
+01/08/2019;Urederra;Peatones;Ida;Recursos turístico ;17038
+01/08/2019;Las Roscas;Peatones;Ida;Recursos turístico ;481
+01/08/2019;Xorroxin;Peatones;Vuelta;Recursos turístico ;9993
+01/08/2019;Amaiur;Peatones;Ida;Recursos turístico ;12219
+01/09/2019;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Pamplona;Vías Verdes - Eurovelo;3270
+01/09/2019;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;1398
+01/09/2019;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1172
+01/09/2019;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;2940
+01/09/2019;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;542
+01/09/2019;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Estella;Vías Verdes - Eurovelo;5061
+01/09/2019;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;390
+01/09/2019;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Álava;Vías Verdes - Eurovelo;337
+01/09/2019;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;1449
+01/09/2019;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;395
+01/09/2019;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;9609
+01/09/2019;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;380
+01/09/2019;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;9401
+01/09/2019;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;631
+01/09/2019;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;10915
+01/09/2019;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;98
+01/09/2019;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;122
+01/09/2019;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;1810
+01/09/2019;Urederra;Peatones;Ida;Recursos turístico ;9205
+01/09/2019;Las Roscas;Peatones;Ida;Recursos turístico ;423
+01/09/2019;Xorroxin;Peatones;Vuelta;Recursos turístico ;3736
+01/09/2019;Amaiur;Peatones;Ida;Recursos turístico ;9229
+01/10/2019;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Pamplona;Vías Verdes - Eurovelo;2527
+01/10/2019;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;872
+01/10/2019;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1399
+01/10/2019;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;2574
+01/10/2019;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;345
+01/10/2019;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Estella;Vías Verdes - Eurovelo;789
+01/10/2019;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;390
+01/10/2019;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;404
+01/10/2019;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;1645
+01/10/2019;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;346
+01/10/2019;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;8940
+01/10/2019;Vía Verde Irati (Foz Lumbier);Bicicletas;Liédena - Lumbier;Vías Verdes - Eurovelo;329
+01/10/2019;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;4780
+01/10/2019;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;223
+01/10/2019;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;6047
+01/10/2019;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;133
+01/10/2019;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;296
+01/10/2019;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;1349
+01/10/2019;Urederra;Peatones;Ida;Recursos turístico ;8447
+01/10/2019;Las Roscas;Peatones;Ida;Recursos turístico ;372
+01/10/2019;Xorroxin;Peatones;Vuelta;Recursos turístico ;3323
+01/10/2019;Amaiur;Peatones;Ida;Recursos turístico ;5557
+01/11/2019;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Pamplona;Vías Verdes - Eurovelo;1911
+01/11/2019;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;265
+01/11/2019;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1141
+01/11/2019;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;1117
+01/11/2019;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;74
+01/11/2019;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Estella;Vías Verdes - Eurovelo;466
+01/11/2019;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;123
+01/11/2019;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Álava;Vías Verdes - Eurovelo;398
+01/11/2019;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;1014
+01/11/2019;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;282
+01/11/2019;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;5461
+01/11/2019;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;72
+01/11/2019;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;554
+01/11/2019;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;53
+01/11/2019;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;548
+01/11/2019;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;16
+01/11/2019;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;90
+01/11/2019;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;713
+01/11/2019;Urederra;Peatones;Ida;Recursos turístico ;4357
+01/11/2019;Las Roscas;Peatones;Vuelta;Recursos turístico ;154
+01/11/2019;Xorroxin;Peatones;Vuelta;Recursos turístico ;1055
+01/11/2019;Amaiur;Peatones;Ida;Recursos turístico ;2785
+01/12/2019;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Pamplona;Vías Verdes - Eurovelo;2069
+01/12/2019;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;437
+01/12/2019;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1170
+01/12/2019;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;1497
+01/12/2019;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;124
+01/12/2019;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Estella;Vías Verdes - Eurovelo;587
+01/12/2019;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;229
+01/12/2019;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;470
+01/12/2019;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;960
+01/12/2019;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;257
+01/12/2019;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;6301
+01/12/2019;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;145
+01/12/2019;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;316
+01/12/2019;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;41
+01/12/2019;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;460
+01/12/2019;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;39
+01/12/2019;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;116
+01/12/2019;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;719
+01/12/2019;Urederra;Peatones;Ida;Recursos turístico ;6016
+01/12/2019;Las Roscas;Peatones;Ida;Recursos turístico ;305
+01/12/2019;Xorroxin;Peatones;Vuelta;Recursos turístico ;2544
+01/12/2019;Amaiur;Peatones;Ida;Recursos turístico ;5552
+01/01/2020;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Pamplona;Vías Verdes - Eurovelo;2064
+01/01/2020;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;503
+01/01/2020;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1412
+01/01/2020;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;1118
+01/01/2020;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;82
+01/01/2020;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Estella;Vías Verdes - Eurovelo;472
+01/01/2020;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;168
+01/01/2020;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;481
+01/01/2020;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;875
+01/01/2020;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;256
+01/01/2020;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;4122
+01/01/2020;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;114
+01/01/2020;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;476
+01/01/2020;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;41
+01/01/2020;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;1060
+01/01/2020;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;82
+01/01/2020;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;301
+01/01/2020;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;761
+01/01/2020;Urederra;Peatones;Ida;Recursos turístico ;3226
+01/01/2020;Las Roscas;Peatones;Vuelta;Recursos turístico ;106
+01/01/2020;Xorroxin;Peatones;Vuelta;Recursos turístico ;1166
+01/01/2020;Amaiur;Peatones;Ida;Recursos turístico ;3237
+01/02/2020;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Pamplona;Vías Verdes - Eurovelo;2389
+01/02/2020;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;689
+01/02/2020;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1322
+01/02/2020;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;1695
+01/02/2020;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;220
+01/02/2020;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Estella;Vías Verdes - Eurovelo;665
+01/02/2020;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;314
+01/02/2020;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;437
+01/02/2020;Via Verde Tarazonica (Cascante);Peatones;Cascante - Tudela ;Vías Verdes - Eurovelo;1263
+01/02/2020;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;356
+01/02/2020;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;7114
+01/02/2020;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;207
+01/02/2020;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;480
+01/02/2020;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;44
+01/02/2020;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;2
+01/02/2020;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;1150
+01/02/2020;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;78
+01/02/2020;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;265
+01/02/2020;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;887
+01/02/2020;Urederra;Peatones;Ida;Recursos turístico ;5889
+01/02/2020;Las Roscas;Peatones;Vuelta;Recursos turístico ;224
+01/02/2020;Xorroxin;Peatones;Vuelta;Recursos turístico ;2243
+01/02/2020;Amaiur;Peatones;Ida;Recursos turístico ;4326
+01/03/2020;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;622
+01/03/2020;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;36
+01/03/2020;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Pamplona;Vías Verdes - Eurovelo;247
+01/03/2020;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;1055
+01/03/2020;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Gipuzkoa;Vías Verdes - Eurovelo;577
+01/03/2020;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;554
+01/03/2020;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;197
+01/03/2020;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;47
+01/03/2020;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Álava;Vías Verdes - Eurovelo;55
+01/03/2020;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Tudela ;Vías Verdes - Eurovelo;119
+01/03/2020;Vía Verde Irati (Foz Lumbier);Peatones;Liédena - Lumbier;Vías Verdes - Eurovelo;799
+01/03/2020;Vía Verde Irati (Foz Lumbier);Bicicletas;Liédena - Lumbier;Vías Verdes - Eurovelo;134
+01/03/2020;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;384
+01/03/2020;Eurovelo 1-Ederbidea (Gaztelu);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;3672
+01/03/2020;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;390
+01/03/2020;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;155
+01/03/2020;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;901
+01/03/2020;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;794
+01/03/2020;Urederra;Peatones;Vuelta;Recursos turístico ;1454
+01/03/2020;Las Roscas;Peatones;Ida;Recursos turístico ;139
+01/03/2020;Xorroxin;Peatones;Ida;Recursos turístico ;361
+01/03/2020;Amaiur;Peatones;Ida;Recursos turístico ;1569
+01/04/2020;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;945
+01/04/2020;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;87
+01/04/2020;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;87
+01/04/2020;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;341
+01/04/2020;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Gipuzkoa;Vías Verdes - Eurovelo;286
+01/04/2020;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;112
+01/04/2020;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;88
+01/04/2020;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;38
+01/04/2020;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;22
+01/04/2020;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;16
+01/04/2020;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;727
+01/04/2020;Vía Verde Irati (Foz Lumbier);Bicicletas;Liédena - Lumbier;Vías Verdes - Eurovelo;4
+01/04/2020;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;589
+01/04/2020;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu -Pamplona;Vías Verdes - Eurovelo;24
+01/04/2020;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;192
+01/04/2020;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;99
+01/04/2020;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;730
+01/04/2020;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;122
+01/04/2020;Urederra;Peatones;Vuelta;Recursos turístico ;237
+01/04/2020;Las Roscas;Peatones;Vuelta;Recursos turístico ;21
+01/04/2020;Xorroxin;Peatones;Ida;Recursos turístico ;298
+01/04/2020;Amaiur;Peatones;Ida;Recursos turístico ;186
+01/05/2020;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1730
+01/05/2020;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;143
+01/05/2020;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Pamplona;Vías Verdes - Eurovelo;1636
+01/05/2020;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;5248
+01/05/2020;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Gipuzkoa;Vías Verdes - Eurovelo;3008
+01/05/2020;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Gipuzkoa;Vías Verdes - Eurovelo;1628
+01/05/2020;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;136
+01/05/2020;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;486
+01/05/2020;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;94
+01/05/2020;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Tudela ;Vías Verdes - Eurovelo;564
+01/05/2020;Vía Verde Irati (Foz Lumbier);Peatones;Liédena - Lumbier;Vías Verdes - Eurovelo;1750
+01/05/2020;Vía Verde Irati (Foz Lumbier);Bicicletas;Liédena - Lumbier;Vías Verdes - Eurovelo;369
+01/05/2020;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;1739
+01/05/2020;Eurovelo 1-Ederbidea (Gaztelu);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;4629
+01/05/2020;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;487
+01/05/2020;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;545
+01/05/2020;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;1238
+01/05/2020;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;792
+01/05/2020;Urederra;Peatones;Ida;Recursos turístico ;1001
+01/05/2020;Las Roscas;Peatones;Vuelta;Recursos turístico ;495
+01/05/2020;Xorroxin;Peatones;Ida;Recursos turístico ;313
+01/05/2020;Amaiur;Peatones;Ida;Recursos turístico ;1108
+01/06/2020;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;486
+01/06/2020;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;165
+01/06/2020;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Pamplona;Vías Verdes - Eurovelo;1494
+01/06/2020;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;4370
+01/06/2020;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Gipuzkoa;Vías Verdes - Eurovelo;2774
+01/06/2020;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2329
+01/06/2020;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;190
+01/06/2020;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;529
+01/06/2020;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;75
+01/06/2020;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Tudela ;Vías Verdes - Eurovelo;781
+01/06/2020;Vía Verde Irati (Foz Lumbier);Peatones;Liédena - Lumbier;Vías Verdes - Eurovelo;4432
+01/06/2020;Vía Verde Irati (Foz Lumbier);Bicicletas;Liédena - Lumbier;Vías Verdes - Eurovelo;710
+01/06/2020;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;2329
+01/06/2020;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu -Pamplona;Vías Verdes - Eurovelo;11577
+01/06/2020;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;760
+01/06/2020;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;511
+01/06/2020;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;1224
+01/06/2020;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;707
+01/06/2020;Urederra;Peatones;Ida;Recursos turístico ;2575
+01/06/2020;Las Roscas;Peatones;Ida;Recursos turístico ;646
+01/06/2020;Xorroxin;Peatones;Ida;Recursos turístico ;378
+01/06/2020;Amaiur;Peatones;Ida;Recursos turístico ;3621
+01/07/2020;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;2462
+01/07/2020;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;372
+01/07/2020;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Pamplona;Vías Verdes - Eurovelo;2499
+01/07/2020;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;5842
+01/07/2020;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Gipuzkoa;Vías Verdes - Eurovelo;3664
+01/07/2020;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Gipuzkoa;Vías Verdes - Eurovelo;2126
+01/07/2020;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;138
+01/07/2020;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;800
+01/07/2020;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Álava;Vías Verdes - Eurovelo;31
+01/07/2020;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Tudela ;Vías Verdes - Eurovelo;1296
+01/07/2020;Vía Verde Irati (Foz Lumbier);Peatones;Liédena - Lumbier;Vías Verdes - Eurovelo;10543
+01/07/2020;Vía Verde Irati (Foz Lumbier);Bicicletas;Liédena - Lumbier;Vías Verdes - Eurovelo;699
+01/07/2020;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;4002
+01/07/2020;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu -Pamplona;Vías Verdes - Eurovelo;18191
+01/07/2020;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;2449
+01/07/2020;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;413
+01/07/2020;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;1215
+01/07/2020;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;2485
+01/07/2020;Urederra;Peatones;Ida;Recursos turístico ;14106
+01/07/2020;Las Roscas;Peatones;Ida;Recursos turístico ;800
+01/07/2020;Xorroxin;Peatones;Ida;Recursos turístico ;617
+01/07/2020;Amaiur;Peatones;Ida;Recursos turístico ;7937
+01/07/2020;Aralar;Peatones;Ida;Recursos turístico ;7937
+01/08/2020;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;2477
+01/08/2020;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;404
+01/08/2020;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Pamplona;Vías Verdes - Eurovelo;2972
+01/08/2020;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Gipuzkoa;Vías Verdes - Eurovelo;6567
+01/08/2020;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Gipuzkoa;Vías Verdes - Eurovelo;5350
+01/08/2020;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2430
+01/08/2020;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;137
+01/08/2020;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;1303
+01/08/2020;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Álava;Vías Verdes - Eurovelo;41
+01/08/2020;Via Verde Tarazonica (Cascante);Peatones;Cascante - Tudela ;Vías Verdes - Eurovelo;566
+01/08/2020;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Tudela ;Vías Verdes - Eurovelo;1794
+01/08/2020;Vía Verde Irati (Foz Lumbier);Peatones;Liédena - Lumbier;Vías Verdes - Eurovelo;14642
+01/08/2020;Vía Verde Irati (Foz Lumbier);Bicicletas;Liédena - Lumbier;Vías Verdes - Eurovelo;793
+01/08/2020;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;5928
+01/08/2020;Eurovelo 1-Ederbidea (Gaztelu);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;29760
+01/08/2020;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;3
+01/08/2020;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;2822
+01/08/2020;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;443
+01/08/2020;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;1210
+01/08/2020;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;2151
+01/08/2020;Urederra;Peatones;Ida;Recursos turístico ;16068
+01/08/2020;Las Roscas;Peatones;Ida;Recursos turístico ;1128
+01/08/2020;Xorroxin;Peatones;Ida;Recursos turístico ;814
+01/08/2020;Amaiur;Peatones;Vuelta;Recursos turístico ;10015
+01/09/2020;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;2042
+01/09/2020;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;296
+01/09/2020;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Pamplona;Vías Verdes - Eurovelo;4619
+01/09/2020;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Pamplona;Vías Verdes - Eurovelo;1545
+01/09/2020;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;3525
+01/09/2020;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Gipuzkoa;Vías Verdes - Eurovelo;1983
+01/09/2020;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;1738
+01/09/2020;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Estella;Vías Verdes - Eurovelo;170
+01/09/2020;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;345
+01/09/2020;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;85
+01/09/2020;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;944
+01/09/2020;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Tudela ;Vías Verdes - Eurovelo;850
+01/09/2020;Vía Verde Irati (Foz Lumbier);Peatones;Liédena - Lumbier;Vías Verdes - Eurovelo;5070
+01/09/2020;Vía Verde Irati (Foz Lumbier);Bicicletas;Liédena - Lumbier;Vías Verdes - Eurovelo;615
+01/09/2020;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;1955
+01/09/2020;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu -Pamplona;Vías Verdes - Eurovelo;10853
+01/09/2020;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;1864
+01/09/2020;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;558
+01/09/2020;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;6
+01/09/2020;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;1928
+01/09/2020;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;339
+01/09/2020;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;1124
+01/09/2020;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;1506
+01/09/2020;Urederra;Peatones;Ida;Recursos turístico ;9136
+01/09/2020;Las Roscas;Peatones;Ida;Recursos turístico ;492
+01/09/2020;Xorroxin;Peatones;Vuelta;Recursos turístico ;541
+01/09/2020;Amaiur;Peatones;Vuelta;Recursos turístico ;3242
+01/10/2020;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1301
+01/10/2020;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;177
+01/10/2020;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Pamplona;Vías Verdes - Eurovelo;2402
+01/10/2020;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Pamplona;Vías Verdes - Eurovelo;598
+01/10/2020;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2321
+01/10/2020;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Gipuzkoa;Vías Verdes - Eurovelo;1471
+01/10/2020;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;1453
+01/10/2020;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;316
+01/10/2020;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;150
+01/10/2020;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Álava;Vías Verdes - Eurovelo;103
+01/10/2020;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;1054
+01/10/2020;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Tudela ;Vías Verdes - Eurovelo;456
+01/10/2020;Vía Verde Irati (Foz Lumbier);Peatones;Liédena - Lumbier;Vías Verdes - Eurovelo;3259
+01/10/2020;Vía Verde Irati (Foz Lumbier);Bicicletas;Liédena - Lumbier;Vías Verdes - Eurovelo;466
+01/10/2020;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;805
+01/10/2020;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu -Pamplona;Vías Verdes - Eurovelo;7913
+01/10/2020;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;1725
+01/10/2020;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;135
+01/10/2020;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;6
+01/10/2020;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;788
+01/10/2020;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;411
+01/10/2020;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;1054
+01/10/2020;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;1520
+01/10/2020;Urederra;Peatones;Ida;Recursos turístico ;6127
+01/10/2020;Las Roscas;Peatones;Ida;Recursos turístico ;353
+01/10/2020;Xorroxin;Peatones;Vuelta;Recursos turístico ;619
+01/10/2020;Amaiur;Peatones;Vuelta;Recursos turístico ;2080
+01/11/2020;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1109
+01/11/2020;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;138
+01/11/2020;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Pamplona;Vías Verdes - Eurovelo;2498
+01/11/2020;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Pamplona;Vías Verdes - Eurovelo;932
+01/11/2020;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;3146
+01/11/2020;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Gipuzkoa;Vías Verdes - Eurovelo;2021
+01/11/2020;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Gipuzkoa;Vías Verdes - Eurovelo;1244
+01/11/2020;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;294
+01/11/2020;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;259
+01/11/2020;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;97
+01/11/2020;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;917
+01/11/2020;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Tudela ;Vías Verdes - Eurovelo;532
+01/11/2020;Vía Verde Irati (Foz Lumbier);Peatones;Liédena - Lumbier;Vías Verdes - Eurovelo;3305
+01/11/2020;Vía Verde Irati (Foz Lumbier);Bicicletas;Liédena - Lumbier;Vías Verdes - Eurovelo;326
+01/11/2020;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;753
+01/11/2020;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu -Pamplona;Vías Verdes - Eurovelo;6626
+01/11/2020;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;2369
+01/11/2020;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;230
+01/11/2020;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;8
+01/11/2020;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;450
+01/11/2020;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;350
+01/11/2020;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;1069
+01/11/2020;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;696
+01/11/2020;Urederra;Peatones;Ida;Recursos turístico ;4763
+01/11/2020;Las Roscas;Peatones;Ida;Recursos turístico ;354
+01/11/2020;Xorroxin;Peatones;Vuelta;Recursos turístico ;695
+01/12/2020;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;824
+01/12/2020;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;70
+01/12/2020;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;1745
+01/12/2020;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Pamplona;Vías Verdes - Eurovelo;398
+01/12/2020;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2134
+01/12/2020;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Gipuzkoa;Vías Verdes - Eurovelo;1325
+01/12/2020;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;1350
+01/12/2020;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;282
+01/12/2020;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;101
+01/12/2020;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;55
+01/12/2020;Via Verde Tarazonica (Cascante);Peatones;Cascante - Tudela ;Vías Verdes - Eurovelo;886
+01/12/2020;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;229
+01/12/2020;Vía Verde Irati (Foz Lumbier);Peatones;Liédena - Lumbier;Vías Verdes - Eurovelo;1147
+01/12/2020;Vía Verde Irati (Foz Lumbier);Bicicletas;Liédena - Lumbier;Vías Verdes - Eurovelo;327
+01/12/2020;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;574
+01/12/2020;Eurovelo 1-Ederbidea (Gaztelu);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;3686
+01/12/2020;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;1554
+01/12/2020;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;136
+01/12/2020;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;7
+01/12/2020;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;192
+01/12/2020;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;449
+01/12/2020;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;970
+01/12/2020;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;591
+01/12/2020;Urederra;Peatones;Ida;Recursos turístico ;1874
+01/12/2020;Las Roscas;Peatones;Ida;Recursos turístico ;165
+01/12/2020;Xorroxin;Peatones;Vuelta;Recursos turístico ;666
+01/12/2020;Amaiur;Peatones;Vuelta;Recursos turístico ;286
+01/01/2021;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Pamplona;Vías Verdes - Eurovelo;1960
+01/01/2021;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;359
+01/01/2021;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;988
+01/01/2021;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;1036
+01/01/2021;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;57
+01/01/2021;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;1477
+01/01/2021;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;102
+01/01/2021;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;1477
+01/01/2021;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Estella;Vías Verdes - Eurovelo;518
+01/01/2021;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;221
+01/01/2021;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;627
+01/01/2021;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;2316
+01/01/2021;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;298
+01/01/2021;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;3637
+01/01/2021;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;145
+01/01/2021;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;3
+01/01/2021;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;3
+01/01/2021;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;245
+01/01/2021;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;39
+01/01/2021;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;639
+01/01/2021;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;46
+01/01/2021;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;290
+01/01/2021;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;1037
+01/01/2021;Urederra;Peatones;Vuelta;Recursos turístico ;1299
+01/01/2021;Las Roscas;Peatones;Ida;Recursos turístico ;309
+01/01/2021;Xorroxin;Peatones;Vuelta;Recursos turístico ;720
+01/01/2021;Amaiur;Peatones;Vuelta;Recursos turístico ;535
+01/02/2021;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Pamplona;Vías Verdes - Eurovelo;2801
+01/02/2021;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;789
+01/02/2021;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;976
+01/02/2021;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;1616
+01/02/2021;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;207
+01/02/2021;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Gipuzkoa;Vías Verdes - Eurovelo;2240
+01/02/2021;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;261
+01/02/2021;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2075
+01/02/2021;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Estella;Vías Verdes - Eurovelo;740
+01/02/2021;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;453
+01/02/2021;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;613
+01/02/2021;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;1395
+01/02/2021;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;392
+01/02/2021;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;7219
+01/02/2021;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;319
+01/02/2021;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;4
+01/02/2021;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu -Pamplona;Vías Verdes - Eurovelo;730
+01/02/2021;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;199
+01/02/2021;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;56
+01/02/2021;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;711
+01/02/2021;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;61
+01/02/2021;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;313
+01/02/2021;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;982
+01/02/2021;Urederra;Peatones;Ida;Recursos turístico ;3186
+01/02/2021;Las Roscas;Peatones;Ida;Recursos turístico ;433
+01/02/2021;Xorroxin;Peatones;Vuelta;Recursos turístico ;2655
+01/02/2021;Amaiur;Peatones;Vuelta;Recursos turístico ;1627
+01/03/2021;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Pamplona;Vías Verdes - Eurovelo;3149
+01/03/2021;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;853
+01/03/2021;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1226
+01/03/2021;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;1579
+01/03/2021;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;226
+01/03/2021;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Gipuzkoa;Vías Verdes - Eurovelo;2267
+01/03/2021;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;278
+01/03/2021;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2388
+01/03/2021;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Estella;Vías Verdes - Eurovelo;1665
+01/03/2021;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;406
+01/03/2021;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;762
+01/03/2021;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;1266
+01/03/2021;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;349
+01/03/2021;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;7433
+01/03/2021;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;309
+01/03/2021;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;4
+01/03/2021;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;608
+01/03/2021;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;314
+01/03/2021;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;78
+01/03/2021;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;896
+01/03/2021;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;78
+01/03/2021;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;301
+01/03/2021;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;1255
+01/03/2021;Urederra;Peatones;Vuelta;Recursos turístico ;3516
+01/03/2021;Las Roscas;Peatones;Ida;Recursos turístico ;489
+01/03/2021;Xorroxin;Peatones;Vuelta;Recursos turístico ;2425
+01/03/2021;Amaiur;Peatones;Vuelta;Recursos turístico ;1529
+01/04/2021;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Pamplona;Vías Verdes - Eurovelo;3731
+01/04/2021;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;1270
+01/04/2021;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1296
+01/04/2021;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;2164
+01/04/2021;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;329
+01/04/2021;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Gipuzkoa;Vías Verdes - Eurovelo;2417
+01/04/2021;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;378
+01/04/2021;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2449
+01/04/2021;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Estella;Vías Verdes - Eurovelo;1161
+01/04/2021;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;737
+01/04/2021;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Álava;Vías Verdes - Eurovelo;625
+01/04/2021;Via Verde Tarazonica (Cascante);Peatones;Cascante - Tudela ;Vías Verdes - Eurovelo;1428
+01/04/2021;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;363
+01/04/2021;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;11192
+01/04/2021;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;404
+01/04/2021;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;16
+01/04/2021;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu -Pamplona;Vías Verdes - Eurovelo;1313
+01/04/2021;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;1000
+01/04/2021;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;178
+01/04/2021;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;1180
+01/04/2021;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;96
+01/04/2021;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;261
+01/04/2021;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;1740
+01/04/2021;Urederra;Peatones;Ida;Recursos turístico ;5319
+01/04/2021;Las Roscas;Peatones;Ida;Recursos turístico ;635
+01/04/2021;Xorroxin;Peatones;Vuelta;Recursos turístico ;3554
+01/04/2021;Amaiur;Peatones;Ida;Recursos turístico ;3729
+01/05/2021;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;3297
+01/05/2021;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;1086
+01/05/2021;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1404
+01/05/2021;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;1747
+01/05/2021;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;332
+01/05/2021;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Gipuzkoa;Vías Verdes - Eurovelo;2466
+01/05/2021;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;400
+01/05/2021;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2833
+01/05/2021;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Estella;Vías Verdes - Eurovelo;1712
+01/05/2021;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;709
+01/05/2021;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;598
+01/05/2021;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;1627
+01/05/2021;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;588
+01/05/2021;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;8180
+01/05/2021;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;440
+01/05/2021;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;8
+01/05/2021;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;1386
+01/05/2021;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;1101
+01/05/2021;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;256
+01/05/2021;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;1699
+01/05/2021;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;143
+01/05/2021;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;368
+01/05/2021;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;2453
+01/05/2021;Urederra;Peatones;Ida;Recursos turístico ;5881
+01/05/2021;Las Roscas;Peatones;Ida;Recursos turístico ;594
+01/05/2021;Xorroxin;Peatones;Vuelta;Recursos turístico ;2117
+01/05/2021;Amaiur;Peatones;Vuelta;Recursos turístico ;1128
+01/06/2021;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Pamplona;Vías Verdes - Eurovelo;2886
+01/06/2021;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;1280
+01/06/2021;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1232
+01/06/2021;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;2250
+01/06/2021;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;283
+01/06/2021;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Gipuzkoa;Vías Verdes - Eurovelo;1734
+01/06/2021;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;284
+01/06/2021;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2309
+01/06/2021;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Estella;Vías Verdes - Eurovelo;1360
+01/06/2021;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;763
+01/06/2021;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;535
+01/06/2021;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;1560
+01/06/2021;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;545
+01/06/2021;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;9124
+01/06/2021;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;373
+01/06/2021;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;8
+01/06/2021;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu -Pamplona;Vías Verdes - Eurovelo;1230
+01/06/2021;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;2459
+01/06/2021;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;378
+01/06/2021;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;2878
+01/06/2021;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;159
+01/06/2021;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;257
+01/06/2021;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;2224
+01/06/2021;Urederra;Peatones;Vuelta;Recursos turístico ;10907
+01/06/2021;Las Roscas;Peatones;Vuelta;Recursos turístico ;668
+01/06/2021;Xorroxin;Peatones;Vuelta;Recursos turístico ;3621
+01/06/2021;Amaiur;Peatones;Vuelta;Recursos turístico ;2550
+01/07/2021;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;4026
+01/07/2021;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;1921
+01/07/2021;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1190
+01/07/2021;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;1624
+01/07/2021;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;346
+01/07/2021;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;3225
+01/07/2021;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;421
+01/07/2021;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;3296
+01/07/2021;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;1275
+01/07/2021;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;1231
+01/07/2021;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Álava;Vías Verdes - Eurovelo;911
+01/07/2021;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;1489
+01/07/2021;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;451
+01/07/2021;Vía Verde Irati (Foz Lumbier);Peatones;Liédena - Lumbier;Vías Verdes - Eurovelo;15493
+01/07/2021;Vía Verde Irati (Foz Lumbier);Bicicletas;Liédena - Lumbier;Vías Verdes - Eurovelo;437
+01/07/2021;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;6
+01/07/2021;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu -Pamplona;Vías Verdes - Eurovelo;1455
+01/07/2021;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;5360
+01/07/2021;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;394
+01/07/2021;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;175
+01/07/2021;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;4387
+01/07/2021;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;222
+01/07/2021;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;490
+01/07/2021;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;3852
+01/07/2021;Urederra;Peatones;Ida;Recursos turístico ;13187
+01/07/2021;Las Roscas;Peatones;Vuelta;Recursos turístico ;3065
+01/07/2021;Xorroxin;Peatones;Vuelta;Recursos turístico ;6755
+01/07/2021;Amaiur;Peatones;Vuelta;Recursos turístico ;5953
+01/08/2021;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;8645
+01/08/2021;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;2878
+01/08/2021;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1391
+01/08/2021;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;3704
+01/08/2021;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;538
+01/08/2021;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;6086
+01/08/2021;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;734
+01/08/2021;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Gipuzkoa;Vías Verdes - Eurovelo;3548
+01/08/2021;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;3395
+01/08/2021;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;1707
+01/08/2021;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Álava;Vías Verdes - Eurovelo;879
+01/08/2021;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;1885
+01/08/2021;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;521
+01/08/2021;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;31793
+01/08/2021;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;787
+01/08/2021;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;69
+01/08/2021;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;1424
+01/08/2021;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;8305
+01/08/2021;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;597
+01/08/2021;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;160
+01/08/2021;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;5642
+01/08/2021;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;256
+01/08/2021;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;615
+01/08/2021;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;4689
+01/08/2021;Urederra;Peatones;Vuelta;Recursos turístico ;14257
+01/08/2021;Las Roscas;Peatones;Ida;Recursos turístico ;3266
+01/08/2021;Xorroxin;Peatones;Vuelta;Recursos turístico ;12953
+01/08/2021;Amaiur;Peatones;Vuelta;Recursos turístico ;11579
+01/09/2021;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;4738
+01/09/2021;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;1229
+01/09/2021;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1183
+01/09/2021;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;1853
+01/09/2021;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;188
+01/09/2021;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;4287
+01/09/2021;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;428
+01/09/2021;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2809
+01/09/2021;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;952
+01/09/2021;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;725
+01/09/2021;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;687
+01/09/2021;Via Verde Tarazonica (Cascante);Peatones;Cascante - Tudela ;Vías Verdes - Eurovelo;1470
+01/09/2021;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;419
+01/09/2021;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;324
+01/09/2021;Vía Verde Irati (Foz Lumbier);Bicicletas;Liédena - Lumbier;Vías Verdes - Eurovelo;11699
+01/09/2021;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;55
+01/09/2021;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;1295
+01/09/2021;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;8185
+01/09/2021;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;435
+01/09/2021;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;93
+01/09/2021;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;7119
+01/09/2021;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;224
+01/09/2021;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;371
+01/09/2021;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;3151
+01/09/2021;Urederra;Peatones;Vuelta;Recursos turístico ;8692
+01/09/2021;Las Roscas;Peatones;Vuelta;Recursos turístico ;2550
+01/09/2021;Xorroxin;Peatones;Vuelta;Recursos turístico ;4832
+01/09/2021;Amaiur;Peatones;Vuelta;Recursos turístico ;3835
+01/10/2021;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;4125
+01/10/2021;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;946
+01/10/2021;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1149
+01/10/2021;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;2621
+01/10/2021;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;226
+01/10/2021;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Gipuzkoa;Vías Verdes - Eurovelo;3751
+01/10/2021;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;298
+01/10/2021;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2843
+01/10/2021;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;836
+01/10/2021;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;588
+01/10/2021;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;645
+01/10/2021;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;1416
+01/10/2021;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;363
+01/10/2021;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;13879
+01/10/2021;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;285
+01/10/2021;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;35
+01/10/2021;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;1381
+01/10/2021;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;5228
+01/10/2021;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;303
+01/10/2021;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;120
+01/10/2021;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;4302
+01/10/2021;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;141
+01/10/2021;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;347
+01/10/2021;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;2438
+01/10/2021;Urederra;Peatones;Ida;Recursos turístico ;9496
+01/10/2021;Las Roscas;Peatones;Ida;Recursos turístico ;3039
+01/10/2021;Xorroxin;Peatones;Vuelta;Recursos turístico ;5787
+01/10/2021;Amaiur;Peatones;Vuelta;Recursos turístico ;5084
+01/11/2021;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;2626
+01/11/2021;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;366
+01/11/2021;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1181
+01/11/2021;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;1378
+01/11/2021;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;49
+01/11/2021;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2139
+01/11/2021;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;116
+01/11/2021;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;1654
+01/11/2021;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Estella;Vías Verdes - Eurovelo;662
+01/11/2021;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;194
+01/11/2021;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;578
+01/11/2021;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;1048
+01/11/2021;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;237
+01/11/2021;Vía Verde Irati (Foz Lumbier);Peatones;Liédena - Lumbier;Vías Verdes - Eurovelo;6050
+01/11/2021;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;72
+01/11/2021;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;18
+01/11/2021;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;1192
+01/11/2021;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;1408
+01/11/2021;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;43
+01/11/2021;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;82
+01/11/2021;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;1164
+01/11/2021;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;49
+01/11/2021;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;290
+01/11/2021;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;1237
+01/11/2021;Urederra;Peatones;Ida;Recursos turístico ;5722
+01/11/2021;Las Roscas;Peatones;Ida;Recursos turístico ;1771
+01/11/2021;Xorroxin;Peatones;Vuelta;Recursos turístico ;1548
+01/11/2021;Amaiur;Peatones;Vuelta;Recursos turístico ;1818
+01/12/2021;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;2145
+01/12/2021;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;316
+01/12/2021;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;670
+01/12/2021;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;1533
+01/12/2021;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;61
+01/12/2021;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2270
+01/12/2021;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;143
+01/12/2021;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;1616
+01/12/2021;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;753
+01/12/2021;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;79
+01/12/2021;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;402
+01/12/2021;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;1224
+01/12/2021;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;284
+01/12/2021;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;3717
+01/12/2021;Vía Verde Irati (Foz Lumbier);Bicicletas;Liédena - Lumbier;Vías Verdes - Eurovelo;55
+01/12/2021;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;21
+01/12/2021;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;1293
+01/12/2021;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;567
+01/12/2021;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;1
+01/12/2021;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;442
+01/12/2021;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;37
+01/12/2021;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;295
+01/12/2021;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;1198
+01/12/2021;Urederra;Peatones;Vuelta;Recursos turístico ;3570
+01/12/2021;Las Roscas;Peatones;Ida;Recursos turístico ;1672
+01/12/2021;Xorroxin;Peatones;Vuelta;Recursos turístico ;1632
+01/12/2021;Amaiur;Peatones;Vuelta;Recursos turístico ;1832
+01/01/2022;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;2693
+01/01/2022;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;398
+01/01/2022;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;937
+01/01/2022;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;2040
+01/01/2022;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Pamplona;Vías Verdes - Eurovelo;96
+01/01/2022;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Gipuzkoa;Vías Verdes - Eurovelo;6135
+01/01/2022;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;175
+01/01/2022;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;1508
+01/01/2022;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;741
+01/01/2022;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;1278
+01/01/2022;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;309
+01/01/2022;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;5433
+01/01/2022;Vía Verde Irati (Foz Lumbier);Bicicletas;Liédena - Lumbier;Vías Verdes - Eurovelo;137
+01/01/2022;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;19
+01/01/2022;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;1121
+01/01/2022;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;776
+01/01/2022;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;624
+01/01/2022;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;46
+01/01/2022;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;364
+01/01/2022;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;1383
+01/01/2022;Urederra;Peatones;Ida;Recursos turístico ;4717
+01/01/2022;Las Roscas;Peatones;Ida;Recursos turístico ;2102
+01/01/2022;Xorroxin;Peatones;Vuelta;Recursos turístico ;1873
+01/01/2022;Amaiur;Peatones;Vuelta;Recursos turístico ;1356
+01/02/2022;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;2725
+01/02/2022;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;458
+01/02/2022;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1052
+01/02/2022;Vía Verde Plazaola (Lekunberri);Peatones;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;488
+01/02/2022;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;38
+01/02/2022;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2426
+01/02/2022;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;204
+01/02/2022;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;1828
+01/02/2022;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;606
+01/02/2022;Via Verde Tarazonica (Cascante);Peatones;Cascante - Tudela ;Vías Verdes - Eurovelo;1012
+01/02/2022;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;287
+01/02/2022;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;5835
+01/02/2022;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;144
+01/02/2022;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;21
+01/02/2022;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu -Pamplona;Vías Verdes - Eurovelo;1063
+01/02/2022;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;571
+01/02/2022;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;630
+01/02/2022;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;62
+01/02/2022;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;340
+01/02/2022;Monreal;Peatones;Santiago de Compostela;Camino de Santiago;383
+01/02/2022;Urederra;Peatones;Ida;Recursos turístico ;4541
+01/02/2022;Las Roscas;Peatones;Ida;Recursos turístico ;1100
+01/02/2022;Xorroxin;Peatones;Vuelta;Recursos turístico ;1884
+01/02/2022;Amaiur;Peatones;Vuelta;Recursos turístico ;1732
+01/03/2022;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;3001
+01/03/2022;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;689
+01/03/2022;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1116
+01/03/2022;Vía Verde Plazaola (Lekunberri);Bicicletas;Lekunberri - Gipuzkoa;Vías Verdes - Eurovelo;10
+01/03/2022;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2719
+01/03/2022;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;230
+01/03/2022;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2212
+01/03/2022;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;728
+01/03/2022;Via Verde Tarazonica (Cascante);Peatones;Cascante - Tudela ;Vías Verdes - Eurovelo;1112
+01/03/2022;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;337
+01/03/2022;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;8869
+01/03/2022;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;246
+01/03/2022;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;22
+01/03/2022;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu -Pamplona;Vías Verdes - Eurovelo;1112
+01/03/2022;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;2330
+01/03/2022;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;1403
+01/03/2022;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;274
+01/03/2022;Urederra;Peatones;Ida;Recursos turístico ;3986
+01/03/2022;Las Roscas;Peatones;Vuelta;Recursos turístico ;13
+01/03/2022;Xorroxin;Peatones;Vuelta;Recursos turístico ;2148
+01/03/2022;Amaiur;Peatones;Vuelta;Recursos turístico ;1953
+01/03/2022;Bertiz;Peatones;Vuelta;Recursos turístico ;1208
+01/03/2022;Castejón;Peatones;Vuelta;Recursos turístico ;4
+01/03/2022;Izco;Peatones;Ida;Recursos turístico ;45
+01/03/2022;Izco;Bicicletas;Vuelta;Recursos turístico ;31
+01/03/2022;Izco;Coches;Vuelta;Recursos turístico ;25
+01/04/2022;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;3478
+01/04/2022;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;1000
+01/04/2022;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1133
+01/04/2022;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;3245
+01/04/2022;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;250
+01/04/2022;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2750
+01/04/2022;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;883
+01/04/2022;Via Verde Tarazonica (Cascante);Peatones;Cascante - Tudela ;Vías Verdes - Eurovelo;1111
+01/04/2022;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;335
+01/04/2022;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;14916
+01/04/2022;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;340
+01/04/2022;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;33
+01/04/2022;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;1174
+01/04/2022;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;7992
+01/04/2022;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;6383
+01/04/2022;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;149
+01/04/2022;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;245
+01/04/2022;Urederra;Peatones;Vuelta;Recursos turístico ;7495
+01/04/2022;Xorroxin;Peatones;Vuelta;Recursos turístico ;4733
+01/04/2022;Amaiur;Peatones;Vuelta;Recursos turístico ;5938
+01/04/2022;Bertiz;Peatones;Vuelta;Recursos turístico ;7236
+01/04/2022;Castejón;Peatones;Vuelta;Recursos turístico ;182
+01/04/2022;Castejón;Bicicletas;Vuelta;Recursos turístico ;111
+01/05/2022;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;3731
+01/05/2022;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;1027
+01/05/2022;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1162
+01/05/2022;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;4280
+01/05/2022;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;523
+01/05/2022;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;4171
+01/05/2022;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;858
+01/05/2022;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;1
+01/05/2022;Via Verde Tarazonica (Cascante);Peatones;Cascante - Tudela ;Vías Verdes - Eurovelo;1180
+01/05/2022;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;392
+01/05/2022;Vía Verde Irati (Foz Lumbier);Peatones;Liédena - Lumbier;Vías Verdes - Eurovelo;9809
+01/05/2022;Vía Verde Irati (Foz Lumbier);Bicicletas;Liédena - Lumbier;Vías Verdes - Eurovelo;335
+01/05/2022;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;64
+01/05/2022;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;1352
+01/05/2022;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;15944
+01/05/2022;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;301
+01/05/2022;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;175
+01/05/2022;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;9564
+01/05/2022;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;242
+01/05/2022;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;275
+01/05/2022;Urederra;Peatones;Ida;Recursos turístico ;7207
+01/05/2022;Xorroxin;Peatones;Vuelta;Recursos turístico ;3137
+01/05/2022;Amaiur;Peatones;Vuelta;Recursos turístico ;3056
+01/05/2022;Bertiz;Peatones;Vuelta;Recursos turístico ;6107
+01/05/2022;Castejón;Peatones;Vuelta;Recursos turístico ;162
+01/05/2022;Castejón;Bicicletas;Vuelta;Recursos turístico ;172
+01/05/2022;Isaba;Peatones;Ida;Recursos turístico ;4115
+01/05/2022;Izco;Peatones;Vuelta;Recursos turístico ;880
+01/05/2022;Izco;Bicicletas;Vuelta;Recursos turístico ;415
+01/05/2022;Izco;Coches;Vuelta;Recursos turístico ;210
+01/06/2022;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1912
+01/06/2022;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;428
+01/06/2022;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Pamplona;Vías Verdes - Eurovelo;508
+01/06/2022;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;3777
+01/06/2022;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;374
+01/06/2022;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;3568
+01/06/2022;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;1472
+01/06/2022;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;29
+01/06/2022;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Álava;Vías Verdes - Eurovelo;52
+01/06/2022;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;1593
+01/06/2022;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;365
+01/06/2022;Vía Verde Irati (Foz Lumbier);Peatones;Liédena - Lumbier;Vías Verdes - Eurovelo;8964
+01/06/2022;Vía Verde Irati (Foz Lumbier);Bicicletas;Liédena - Lumbier;Vías Verdes - Eurovelo;386
+01/06/2022;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;34
+01/06/2022;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu -Pamplona;Vías Verdes - Eurovelo;1082
+01/06/2022;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;13984
+01/06/2022;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;392
+01/06/2022;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;211
+01/06/2022;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;5999
+01/06/2022;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;190
+01/06/2022;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;372
+01/06/2022;Urederra;Peatones;Vuelta;Recursos turístico ;7382
+01/06/2022;Xorroxin;Peatones;Vuelta;Recursos turístico ;2862
+01/06/2022;Amaiur;Peatones;Vuelta;Recursos turístico ;1866
+01/06/2022;Bertiz;Peatones;Ida;Recursos turístico ;5263
+01/06/2022;Castejón;Peatones;Vuelta;Recursos turístico ;144
+01/06/2022;Castejón;Bicicletas;Ida;Recursos turístico ;147
+01/06/2022;Isaba;Peatones;Ida;Recursos turístico ;2721
+01/06/2022;Izco;Peatones;Vuelta;Recursos turístico ;845
+01/06/2022;Izco;Bicicletas;Vuelta;Recursos turístico ;72
+01/06/2022;Izco;Coches;Vuelta;Recursos turístico ;153
+01/07/2022;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1608
+01/07/2022;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;537
+01/07/2022;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;383
+01/07/2022;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;4369
+01/07/2022;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;505
+01/07/2022;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;3904
+01/07/2022;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;2020
+01/07/2022;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;1286
+01/07/2022;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Álava;Vías Verdes - Eurovelo;1255
+01/07/2022;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;920
+01/07/2022;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;197
+01/07/2022;Vía Verde Irati (Foz Lumbier);Peatones;Liédena - Lumbier;Vías Verdes - Eurovelo;13010
+01/07/2022;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;407
+01/07/2022;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;68
+01/07/2022;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;966
+01/07/2022;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;10012
+01/07/2022;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;179
+01/07/2022;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;221
+01/07/2022;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;5600
+01/07/2022;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;149
+01/07/2022;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;612
+01/07/2022;Urederra;Peatones;Vuelta;Recursos turístico ;10177
+01/07/2022;Xorroxin;Peatones;Vuelta;Recursos turístico ;6396
+01/07/2022;Amaiur;Peatones;Vuelta;Recursos turístico ;6260
+01/07/2022;Bertiz;Peatones;Vuelta;Recursos turístico ;8664
+01/07/2022;Castejón;Peatones;Vuelta;Recursos turístico ;103
+01/07/2022;Castejón;Bicicletas;Ida;Recursos turístico ;88
+01/07/2022;Isaba;Peatones;Ida;Recursos turístico ;2753
+01/07/2022;Izco;Peatones;Vuelta;Recursos turístico ;1118
+01/07/2022;Izco;Bicicletas;Vuelta;Recursos turístico ;859
+01/07/2022;Izco;Coches;Vuelta;Recursos turístico ;233
+01/08/2022;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;4610
+01/08/2022;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;1208
+01/08/2022;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;912
+01/08/2022;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;4846
+01/08/2022;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;624
+01/08/2022;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;4075
+01/08/2022;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;1861
+01/08/2022;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;1368
+01/08/2022;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Álava;Vías Verdes - Eurovelo;1152
+01/08/2022;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;721
+01/08/2022;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;345
+01/08/2022;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;23070
+01/08/2022;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;646
+01/08/2022;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;6
+01/08/2022;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;142
+01/08/2022;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;9606
+01/08/2022;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;74
+01/08/2022;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;116
+01/08/2022;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;7169
+01/08/2022;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;267
+01/08/2022;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;730
+01/08/2022;Urederra;Peatones;Vuelta;Recursos turístico ;12642
+01/08/2022;Xorroxin;Peatones;Vuelta;Recursos turístico ;9503
+01/08/2022;Amaiur;Peatones;Vuelta;Recursos turístico ;7961
+01/08/2022;Bertiz;Peatones;Vuelta;Recursos turístico ;12361
+01/08/2022;Castejón;Peatones;Vuelta;Recursos turístico ;147
+01/08/2022;Castejón;Bicicletas;Ida;Recursos turístico ;138
+01/08/2022;Isaba;Peatones;Ida;Recursos turístico ;718
+01/08/2022;Izco;Peatones;Vuelta;Recursos turístico ;1005
+01/08/2022;Izco;Bicicletas;Vuelta;Recursos turístico ;837
+01/08/2022;Izco;Coches;Vuelta;Recursos turístico ;246
+01/09/2022;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;3037
+01/09/2022;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;578
+01/09/2022;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;630
+01/09/2022;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;3488
+01/09/2022;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;366
+01/09/2022;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;3321
+01/09/2022;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;635
+01/09/2022;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;503
+01/09/2022;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;599
+01/09/2022;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;769
+01/09/2022;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;293
+01/09/2022;Vía Verde Irati (Foz Lumbier);Peatones;Liédena - Lumbier;Vías Verdes - Eurovelo;10347
+01/09/2022;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;276
+01/09/2022;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;19
+01/09/2022;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;467
+01/09/2022;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;12140
+01/09/2022;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;52
+01/09/2022;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;110
+01/09/2022;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;5883
+01/09/2022;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;167
+01/09/2022;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;343
+01/09/2022;Urederra;Peatones;Ida;Recursos turístico ;8143
+01/09/2022;Xorroxin;Peatones;Vuelta;Recursos turístico ;3543
+01/09/2022;Amaiur;Peatones;Vuelta;Recursos turístico ;3031
+01/09/2022;Bertiz;Peatones;Vuelta;Recursos turístico ;6818
+01/09/2022;Castejón;Peatones;Ida;Recursos turístico ;180
+01/09/2022;Castejón;Bicicletas;Vuelta;Recursos turístico ;149
+01/09/2022;Isaba;Peatones;Ida;Recursos turístico ;386
+01/09/2022;Izco;Peatones;Vuelta;Recursos turístico ;956
+01/09/2022;Izco;Bicicletas;Vuelta;Recursos turístico ;1323
+01/09/2022;Izco;Coches;Vuelta;Recursos turístico ;158
+01/10/2022;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;3617
+01/10/2022;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;448
+01/10/2022;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;870
+01/10/2022;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Gipuzkoa;Vías Verdes - Eurovelo;3938
+01/10/2022;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;317
+01/10/2022;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;3192
+01/10/2022;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;160
+01/10/2022;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;91
+01/10/2022;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;123
+01/10/2022;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;846
+01/10/2022;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;227
+01/10/2022;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;13661
+01/10/2022;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;246
+01/10/2022;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;5
+01/10/2022;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;59
+01/10/2022;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;6179
+01/10/2022;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;26
+01/10/2022;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;110
+01/10/2022;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;2056
+01/10/2022;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;94
+01/10/2022;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;298
+01/10/2022;Urederra;Peatones;Ida;Recursos turístico ;9352
+01/10/2022;Xorroxin;Peatones;Vuelta;Recursos turístico ;4883
+01/10/2022;Amaiur;Peatones;Vuelta;Recursos turístico ;4333
+01/10/2022;Bertiz;Peatones;Vuelta;Recursos turístico ;8898
+01/10/2022;Castejón;Peatones;Vuelta;Recursos turístico ;153
+01/10/2022;Castejón;Bicicletas;Vuelta;Recursos turístico ;112
+01/10/2022;Isaba;Peatones;Vuelta;Recursos turístico ;223
+01/10/2022;Izco;Peatones;Vuelta;Recursos turístico ;1112
+01/10/2022;Izco;Bicicletas;Vuelta;Recursos turístico ;590
+01/10/2022;Izco;Coches;Ida;Recursos turístico ;145
+01/11/2022;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;2593
+01/11/2022;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;265
+01/11/2022;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1198
+01/11/2022;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2264
+01/11/2022;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;145
+01/11/2022;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2200
+01/11/2022;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;587
+01/11/2022;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;151
+01/11/2022;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;406
+01/11/2022;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;406
+01/11/2022;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;218
+01/11/2022;Vía Verde Irati (Foz Lumbier);Peatones;Liédena - Lumbier;Vías Verdes - Eurovelo;1735
+01/11/2022;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;93
+01/11/2022;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;41
+01/11/2022;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;1658
+01/11/2022;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;1213
+01/11/2022;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;17
+01/11/2022;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;122
+01/11/2022;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;1236
+01/11/2022;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;53
+01/11/2022;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;345
+01/11/2022;Urederra;Peatones;Ida;Recursos turístico ;5501
+01/11/2022;Xorroxin;Peatones;Vuelta;Recursos turístico ;2103
+01/11/2022;Amaiur;Peatones;Vuelta;Recursos turístico ;1621
+01/11/2022;Bertiz;Peatones;Vuelta;Recursos turístico ;4737
+01/11/2022;Castejón;Peatones;Ida;Recursos turístico ;55
+01/11/2022;Castejón;Bicicletas;Vuelta;Recursos turístico ;37
+01/11/2022;Isaba;Peatones;Vuelta;Recursos turístico ;121
+01/11/2022;Izco;Peatones;Ida;Recursos turístico ;158
+01/11/2022;Izco;Bicicletas;Vuelta;Recursos turístico ;2658
+01/11/2022;Izco;Coches;Vuelta;Recursos turístico ;239
+01/12/2022;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1789
+01/12/2022;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;239
+01/12/2022;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1031
+01/12/2022;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2434
+01/12/2022;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;113
+01/12/2022;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;1969
+01/12/2022;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;759
+01/12/2022;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;180
+01/12/2022;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;467
+01/12/2022;Via Verde Tarazonica (Cascante);Peatones;Cascante - Tudela ;Vías Verdes - Eurovelo;236
+01/12/2022;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;189
+01/12/2022;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;3308
+01/12/2022;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;87
+01/12/2022;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;28
+01/12/2022;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;850
+01/12/2022;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;722
+01/12/2022;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;4
+01/12/2022;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;121
+01/12/2022;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;670
+01/12/2022;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;40
+01/12/2022;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;238
+01/12/2022;Urederra;Peatones;Ida;Recursos turístico ;4621
+01/12/2022;Xorroxin;Peatones;Vuelta;Recursos turístico ;2363
+01/12/2022;Amaiur;Peatones;Vuelta;Recursos turístico ;1968
+01/12/2022;Bertiz;Peatones;Vuelta;Recursos turístico ;4158
+01/12/2022;Castejón;Peatones;Ida;Recursos turístico ;154
+01/12/2022;Castejón;Bicicletas;Ida;Recursos turístico ;68
+01/12/2022;Isaba;Peatones;Vuelta;Recursos turístico ;128
+01/12/2022;Izco;Peatones;Vuelta;Recursos turístico ;31
+01/12/2022;Izco;Bicicletas;Vuelta;Recursos turístico ;113
+01/12/2022;Izco;Coches;Ida;Recursos turístico ;80
+01/01/2023;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;3692
+01/01/2023;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;255
+01/01/2023;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1539
+01/01/2023;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2056
+01/01/2023;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;79
+01/01/2023;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;1783
+01/01/2023;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;551
+01/01/2023;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;126
+01/01/2023;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;370
+01/01/2023;Via Verde Tarazonica (Cascante);Peatones;Cascante - Tudela ;Vías Verdes - Eurovelo;494
+01/01/2023;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;110
+01/01/2023;Vía Verde Irati (Foz Lumbier);Peatones;Liédena - Lumbier;Vías Verdes - Eurovelo;4549
+01/01/2023;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;59
+01/01/2023;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;22
+01/01/2023;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu -Pamplona;Vías Verdes - Eurovelo;716
+01/01/2023;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;710
+01/01/2023;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;1
+01/01/2023;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;98
+01/01/2023;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;744
+01/01/2023;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;23
+01/01/2023;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;275
+01/01/2023;Urederra;Peatones;Ida;Recursos turístico ;2204
+01/01/2023;Xorroxin;Peatones;Vuelta;Recursos turístico ;1062
+01/01/2023;Amaiur;Peatones;Vuelta;Recursos turístico ;731
+01/01/2023;Bertiz;Peatones;Vuelta;Recursos turístico ;2746
+01/01/2023;Castejón;Peatones;Ida;Recursos turístico ;242
+01/01/2023;Castejón;Bicicletas;Vuelta;Recursos turístico ;79
+01/01/2023;Isaba;Peatones;Vuelta;Recursos turístico ;211
+01/01/2023;Izco;Peatones;Ida;Recursos turístico ;174
+01/01/2023;Izco;Bicicletas;Ida;Recursos turístico ;33
+01/01/2023;Izco;Coches;Ida;Recursos turístico ;60
+01/02/2023;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;3665
+01/02/2023;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;356
+01/02/2023;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1273
+01/02/2023;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2190
+01/02/2023;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;161
+01/02/2023;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;1901
+01/02/2023;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;624
+01/02/2023;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;147
+01/02/2023;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;492
+01/02/2023;Via Verde Tarazonica (Cascante);Peatones;Cascante - Tudela ;Vías Verdes - Eurovelo;614
+01/02/2023;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;126
+01/02/2023;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;6651
+01/02/2023;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;80
+01/02/2023;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;15
+01/02/2023;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;381
+01/02/2023;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;439
+01/02/2023;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;42
+01/02/2023;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;890
+01/02/2023;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;45
+01/02/2023;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;252
+01/02/2023;Urederra;Peatones;Ida;Recursos turístico ;2501
+01/02/2023;Xorroxin;Peatones;Vuelta;Recursos turístico ;1718
+01/02/2023;Amaiur;Peatones;Vuelta;Recursos turístico ;1127
+01/02/2023;Bertiz;Peatones;Vuelta;Recursos turístico ;3487
+01/02/2023;Castejón;Peatones;Vuelta;Recursos turístico ;261
+01/02/2023;Castejón;Bicicletas;Vuelta;Recursos turístico ;65
+01/02/2023;Isaba;Peatones;Vuelta;Recursos turístico ;254
+01/02/2023;Izco;Peatones;Vuelta;Recursos turístico ;288
+01/02/2023;Izco;Bicicletas;Ida;Recursos turístico ;48
+01/02/2023;Izco;Coches;Ida;Recursos turístico ;56
+01/03/2023;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;4771
+01/03/2023;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;491
+01/03/2023;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1477
+01/03/2023;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2734
+01/03/2023;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;227
+01/03/2023;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2324
+01/03/2023;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;477
+01/03/2023;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;150
+01/03/2023;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;282
+01/03/2023;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;895
+01/03/2023;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;195
+01/03/2023;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;12802
+01/03/2023;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;230
+01/03/2023;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;37
+01/03/2023;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu -Pamplona;Vías Verdes - Eurovelo;932
+01/03/2023;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;2323
+01/03/2023;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;5
+01/03/2023;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;103
+01/03/2023;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;2514
+01/03/2023;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;62
+01/03/2023;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;315
+01/03/2023;Urederra;Peatones;Ida;Recursos turístico ;3210
+01/03/2023;Xorroxin;Peatones;Vuelta;Recursos turístico ;2149
+01/03/2023;Amaiur;Peatones;Vuelta;Recursos turístico ;1666
+01/03/2023;Bertiz;Peatones;Vuelta;Recursos turístico ;4107
+01/03/2023;Castejón;Peatones;Vuelta;Recursos turístico ;139
+01/03/2023;Castejón;Bicicletas;Vuelta;Recursos turístico ;93
+01/03/2023;Isaba;Peatones;Vuelta;Recursos turístico ;86
+01/03/2023;Izco;Peatones;Ida;Recursos turístico ;906
+01/03/2023;Izco;Bicicletas;Vuelta;Recursos turístico ;5
+01/03/2023;Izco;Coches;Vuelta;Recursos turístico ;101
+01/04/2023;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;5726
+01/04/2023;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;670
+01/04/2023;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1364
+01/04/2023;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;3882
+01/04/2023;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;385
+01/04/2023;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2763
+01/04/2023;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;1626
+01/04/2023;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;510
+01/04/2023;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;758
+01/04/2023;Via Verde Tarazonica (Cascante);Peatones;Cascante - Tudela ;Vías Verdes - Eurovelo;949
+01/04/2023;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;211
+01/04/2023;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;16605
+01/04/2023;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;294
+01/04/2023;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;32
+01/04/2023;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;865
+01/04/2023;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;11747
+01/04/2023;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;43
+01/04/2023;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;129
+01/04/2023;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;11628
+01/04/2023;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;127
+01/04/2023;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;227
+01/04/2023;Urederra;Peatones;Ida;Recursos turístico ;7010
+01/04/2023;Xorroxin;Peatones;Vuelta;Recursos turístico ;5253
+01/04/2023;Amaiur;Peatones;Vuelta;Recursos turístico ;4687
+01/04/2023;Bertiz;Peatones;Vuelta;Recursos turístico ;7389
+01/04/2023;Castejón;Peatones;Vuelta;Recursos turístico ;119
+01/04/2023;Castejón;Bicicletas;Vuelta;Recursos turístico ;113
+01/04/2023;Isaba;Peatones;Vuelta;Recursos turístico ;192
+01/04/2023;Izco;Peatones;Vuelta;Recursos turístico ;462
+01/04/2023;Izco;Bicicletas;Vuelta;Recursos turístico ;8
+01/04/2023;Izco;Coches;Vuelta;Recursos turístico ;85
+01/05/2023;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;5057
+01/05/2023;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;567
+01/05/2023;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1153
+01/05/2023;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;3708
+01/05/2023;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;368
+01/05/2023;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2815
+01/05/2023;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;1208
+01/05/2023;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;363
+01/05/2023;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Álava;Vías Verdes - Eurovelo;758
+01/05/2023;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;778
+01/05/2023;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;173
+01/05/2023;Vía Verde Irati (Foz Lumbier);Peatones;Liédena - Lumbier;Vías Verdes - Eurovelo;10259
+01/05/2023;Vía Verde Irati (Foz Lumbier);Bicicletas;Liédena - Lumbier;Vías Verdes - Eurovelo;253
+01/05/2023;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;50
+01/05/2023;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;842
+01/05/2023;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;12878
+01/05/2023;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;78
+01/05/2023;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;134
+01/05/2023;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;12523
+01/05/2023;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;167
+01/05/2023;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;261
+01/05/2023;Urederra;Peatones;Ida;Recursos turístico ;4644
+01/05/2023;Xorroxin;Peatones;Vuelta;Recursos turístico ;2485
+01/05/2023;Amaiur;Peatones;Vuelta;Recursos turístico ;2108
+01/05/2023;Bertiz;Peatones;Vuelta;Recursos turístico ;4204
+01/05/2023;Castejón;Peatones;Vuelta;Recursos turístico ;171
+01/05/2023;Castejón;Bicicletas;Vuelta;Recursos turístico ;113
+01/05/2023;Isaba;Peatones;Ida;Recursos turístico ;103
+01/05/2023;Izco;Peatones;Vuelta;Recursos turístico ;611
+01/05/2023;Izco;Bicicletas;Ida;Recursos turístico ;15
+01/05/2023;Izco;Coches;Vuelta;Recursos turístico ;109
+01/06/2023;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;6031
+01/06/2023;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;787
+01/06/2023;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1863
+01/06/2023;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;4116
+01/06/2023;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;384
+01/06/2023;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;3035
+01/06/2023;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;1346
+01/06/2023;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;480
+01/06/2023;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;689
+01/06/2023;Via Verde Tarazonica (Cascante);Peatones;Cascante - Tudela ;Vías Verdes - Eurovelo;655
+01/06/2023;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;151
+01/06/2023;Vía Verde Irati (Foz Lumbier);Peatones;Liédena - Lumbier;Vías Verdes - Eurovelo;9245
+01/06/2023;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;230
+01/06/2023;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;52
+01/06/2023;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu -Pamplona;Vías Verdes - Eurovelo;824
+01/06/2023;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;7596
+01/06/2023;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;37
+01/06/2023;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;71
+01/06/2023;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;7094
+01/06/2023;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;154
+01/06/2023;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;245
+01/06/2023;Urederra;Peatones;Ida;Recursos turístico ;6598
+01/06/2023;Xorroxin;Peatones;Vuelta;Recursos turístico ;2942
+01/06/2023;Amaiur;Peatones;Vuelta;Recursos turístico ;2338
+01/06/2023;Bertiz;Peatones;Vuelta;Recursos turístico ;4184
+01/06/2023;Castejón;Peatones;Vuelta;Recursos turístico ;129
+01/06/2023;Castejón;Bicicletas;Ida;Recursos turístico ;135
+01/06/2023;Isaba;Peatones;Ida;Recursos turístico ;244
+01/06/2023;Izco;Peatones;Vuelta;Recursos turístico ;484
+01/06/2023;Izco;Bicicletas;Ida;Recursos turístico ;9
+01/06/2023;Izco;Coches;Ida;Recursos turístico ;79
+01/07/2023;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;6894
+01/07/2023;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;1046
+01/07/2023;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1581
+01/07/2023;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;4504
+01/07/2023;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;466
+01/07/2023;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;3506
+01/07/2023;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;2756
+01/07/2023;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;896
+01/07/2023;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Álava;Vías Verdes - Eurovelo;931
+01/07/2023;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;883
+01/07/2023;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;204
+01/07/2023;Vía Verde Irati (Foz Lumbier);Peatones;Liédena - Lumbier;Vías Verdes - Eurovelo;16443
+01/07/2023;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;349
+01/07/2023;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;53
+01/07/2023;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu -Pamplona;Vías Verdes - Eurovelo;799
+01/07/2023;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;7977
+01/07/2023;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;19
+01/07/2023;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;83
+01/07/2023;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;5970
+01/07/2023;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;112
+01/07/2023;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;422
+01/07/2023;Urederra;Peatones;Ida;Recursos turístico ;13167
+01/07/2023;Xorroxin;Peatones;Vuelta;Recursos turístico ;7670
+01/07/2023;Amaiur;Peatones;Vuelta;Recursos turístico ;4053
+01/07/2023;Bertiz;Peatones;Ida;Recursos turístico ;8451
+01/07/2023;Castejón;Peatones;Ida;Recursos turístico ;102
+01/07/2023;Castejón;Bicicletas;Ida;Recursos turístico ;133
+01/07/2023;Isaba;Peatones;Ida;Recursos turístico ;594
+01/07/2023;Izco;Peatones;Vuelta;Recursos turístico ;715
+01/07/2023;Izco;Bicicletas;Ida;Recursos turístico ;9
+01/07/2023;Izco;Coches;Ida;Recursos turístico ;191
+01/08/2023;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;7764
+01/08/2023;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;1466
+01/08/2023;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;2142
+01/08/2023;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;5049
+01/08/2023;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;526
+01/08/2023;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;3438
+01/08/2023;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;2624
+01/08/2023;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;902
+01/08/2023;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Álava;Vías Verdes - Eurovelo;880
+01/08/2023;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;803
+01/08/2023;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;180
+01/08/2023;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;21596
+01/08/2023;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;457
+01/08/2023;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;66
+01/08/2023;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;991
+01/08/2023;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;9934
+01/08/2023;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;33
+01/08/2023;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;126
+01/08/2023;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;7356
+01/08/2023;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;178
+01/08/2023;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;608
+01/08/2023;Urederra;Peatones;Ida;Recursos turístico ;13893
+01/08/2023;Xorroxin;Peatones;Vuelta;Recursos turístico ;10212
+01/08/2023;Amaiur;Peatones;Vuelta;Recursos turístico ;6109
+01/08/2023;Bertiz;Peatones;Ida;Recursos turístico ;3449
+01/08/2023;Castejón;Peatones;Ida;Recursos turístico ;115
+01/08/2023;Castejón;Bicicletas;Vuelta;Recursos turístico ;129
+01/08/2023;Isaba;Peatones;Ida;Recursos turístico ;498
+01/08/2023;Izco;Peatones;Vuelta;Recursos turístico ;738
+01/08/2023;Izco;Bicicletas;Vuelta;Recursos turístico ;25
+01/08/2023;Izco;Coches;Ida;Recursos turístico ;150
+01/09/2023;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;6112
+01/09/2023;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;1543
+01/09/2023;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;3870
+01/09/2023;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;3679
+01/09/2023;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;432
+01/09/2023;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2833
+01/09/2023;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;461
+01/09/2023;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;242
+01/09/2023;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;344
+01/09/2023;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;765
+01/09/2023;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;280
+01/09/2023;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;8509
+01/09/2023;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;390
+01/09/2023;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;66
+01/09/2023;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;1226
+01/09/2023;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;11562
+01/09/2023;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;59
+01/09/2023;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;130
+01/09/2023;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;9490
+01/09/2023;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;218
+01/09/2023;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;3389
+01/09/2023;Urederra;Peatones;Ida;Recursos turístico ;6342
+01/09/2023;Xorroxin;Peatones;Vuelta;Recursos turístico ;1223
+01/09/2023;Amaiur;Peatones;Vuelta;Recursos turístico ;2477
+01/09/2023;Bertiz;Peatones;Vuelta;Recursos turístico ;6211
+01/09/2023;Castejón;Peatones;Ida;Recursos turístico ;672
+01/09/2023;Castejón;Bicicletas;Ida;Recursos turístico ;181
+01/09/2023;Isaba;Peatones;Vuelta;Recursos turístico ;291
+01/09/2023;Izco;Peatones;Vuelta;Recursos turístico ;473
+01/09/2023;Izco;Bicicletas;Ida;Recursos turístico ;5979
+01/09/2023;Izco;Coches;Ida;Recursos turístico ;1283
+01/10/2023;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;4103
+01/10/2023;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;1193
+01/10/2023;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;2035
+01/10/2023;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;3285
+01/10/2023;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;387
+01/10/2023;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;3465
+01/10/2023;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;577
+01/10/2023;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;280
+01/10/2023;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;11074
+01/10/2023;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;375
+01/10/2023;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;40
+01/10/2023;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;1429
+01/10/2023;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;5503
+01/10/2023;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;33
+01/10/2023;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;160
+01/10/2023;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;5415
+01/10/2023;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;159
+01/10/2023;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;403
+01/10/2023;Urederra;Peatones;Ida;Recursos turístico ;8026
+01/10/2023;Xorroxin;Peatones;Vuelta;Recursos turístico ;4633
+01/10/2023;Amaiur;Peatones;Vuelta;Recursos turístico ;3459
+01/10/2023;Bertiz;Peatones;Vuelta;Recursos turístico ;7264
+01/10/2023;Castejón;Peatones;Ida;Recursos turístico ;116
+01/10/2023;Castejón;Bicicletas;Ida;Recursos turístico ;77
+01/10/2023;Isaba;Peatones;Vuelta;Recursos turístico ;199
+01/10/2023;Izco;Peatones;Vuelta;Recursos turístico ;684
+01/10/2023;Izco;Bicicletas;Vuelta;Recursos turístico ;22
+01/10/2023;Izco;Coches;Ida;Recursos turístico ;250
+01/11/2023;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;2952
+01/11/2023;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;419
+01/11/2023;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1131
+01/11/2023;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2477
+01/11/2023;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;151
+01/11/2023;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2083
+01/11/2023;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;761
+01/11/2023;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;157
+01/11/2023;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;1898
+01/11/2023;Via Verde Tarazonica (Cascante);Peatones;Cascante - Tudela ;Vías Verdes - Eurovelo;464
+01/11/2023;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;212
+01/11/2023;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;5661
+01/11/2023;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;123
+01/11/2023;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;15
+01/11/2023;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;1258
+01/11/2023;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;1030
+01/11/2023;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;12
+01/11/2023;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;158
+01/11/2023;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;1185
+01/11/2023;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;70
+01/11/2023;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;474
+01/11/2023;Urederra;Peatones;Ida;Recursos turístico ;5615
+01/11/2023;Xorroxin;Peatones;Vuelta;Recursos turístico ;2033
+01/11/2023;Amaiur;Peatones;Vuelta;Recursos turístico ;1546
+01/11/2023;Bertiz;Peatones;Ida;Recursos turístico ;4346
+01/11/2023;Castejón;Peatones;Ida;Recursos turístico ;89
+01/11/2023;Castejón;Bicicletas;Vuelta;Recursos turístico ;59
+01/11/2023;Isaba;Peatones;Vuelta;Recursos turístico ;51
+01/11/2023;Izco;Peatones;Vuelta;Recursos turístico ;340
+01/11/2023;Izco;Bicicletas;Vuelta;Recursos turístico ;77
+01/11/2023;Izco;Coches;Ida;Recursos turístico ;163
+01/12/2023;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;2901
+01/12/2023;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;376
+01/12/2023;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1162
+01/12/2023;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2217
+01/12/2023;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;112
+01/12/2023;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;1803
+01/12/2023;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;915
+01/12/2023;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;186
+01/12/2023;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;742
+01/12/2023;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;406
+01/12/2023;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;207
+01/12/2023;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;4680
+01/12/2023;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;112
+01/12/2023;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;14
+01/12/2023;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;1230
+01/12/2023;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;498
+01/12/2023;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;6
+01/12/2023;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;140
+01/12/2023;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;652
+01/12/2023;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;40
+01/12/2023;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;352
+01/12/2023;Urederra;Peatones;Ida;Recursos turístico ;4257
+01/12/2023;Xorroxin;Peatones;Vuelta;Recursos turístico ;2355
+01/12/2023;Amaiur;Peatones;Vuelta;Recursos turístico ;2267
+01/12/2023;Bertiz;Peatones;Ida;Recursos turístico ;3753
+01/12/2023;Castejón;Peatones;Vuelta;Recursos turístico ;57
+01/12/2023;Castejón;Bicicletas;Ida;Recursos turístico ;33
+01/12/2023;Isaba;Peatones;Vuelta;Recursos turístico ;89
+01/12/2023;Izco;Peatones;Vuelta;Recursos turístico ;293
+01/12/2023;Izco;Bicicletas;Ida;Recursos turístico ;12
+01/12/2023;Izco;Coches;Ida;Recursos turístico ;140
+01/01/2024;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;2741
+01/01/2024;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;496
+01/01/2024;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1260
+01/01/2024;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2016
+01/01/2024;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;131
+01/01/2024;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;1869
+01/01/2024;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;817
+01/01/2024;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Álava;Vías Verdes - Eurovelo;181
+01/01/2024;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;754
+01/01/2024;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;489
+01/01/2024;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;142
+01/01/2024;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;2059
+01/01/2024;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;61
+01/01/2024;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;25
+01/01/2024;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;1197
+01/01/2024;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;418
+01/01/2024;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;8
+01/01/2024;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;158
+01/01/2024;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;662
+01/01/2024;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;28
+01/01/2024;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;425
+01/01/2024;Urederra;Peatones;Ida;Recursos turístico ;2031
+01/01/2024;Xorroxin;Peatones;Vuelta;Recursos turístico ;1306
+01/01/2024;Amaiur;Peatones;Vuelta;Recursos turístico ;999
+01/01/2024;Bertiz;Peatones;Ida;Recursos turístico ;2602
+01/01/2024;Castejón;Peatones;Vuelta;Recursos turístico ;38
+01/01/2024;Castejón;Bicicletas;Vuelta;Recursos turístico ;20
+01/01/2024;Isaba;Peatones;Vuelta;Recursos turístico ;63
+01/01/2024;Izco;Peatones;Vuelta;Recursos turístico ;239
+01/01/2024;Izco;Bicicletas;Vuelta;Recursos turístico ;5
+01/01/2024;Izco;Coches;Vuelta;Recursos turístico ;104
+01/02/2024;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;3875
+01/02/2024;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;492
+01/02/2024;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Pamplona;Vías Verdes - Eurovelo;2299
+01/02/2024;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2468
+01/02/2024;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;141
+01/02/2024;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;1897
+01/02/2024;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;833
+01/02/2024;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;175
+01/02/2024;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;785
+01/02/2024;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;491
+01/02/2024;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;226
+01/02/2024;Vía Verde Irati (Foz Lumbier);Peatones;Liédena - Lumbier;Vías Verdes - Eurovelo;3737
+01/02/2024;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;123
+01/02/2024;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;18
+01/02/2024;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;1125
+01/02/2024;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;606
+01/02/2024;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;6
+01/02/2024;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;90
+01/02/2024;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;1023
+01/02/2024;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;60
+01/02/2024;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;376
+01/02/2024;Urederra;Peatones;Ida;Recursos turístico ;2215
+01/02/2024;Xorroxin;Peatones;Vuelta;Recursos turístico ;1343
+01/02/2024;Amaiur;Peatones;Vuelta;Recursos turístico ;943
+01/02/2024;Bertiz;Peatones;Ida;Recursos turístico ;2797
+01/02/2024;Castejón;Peatones;Vuelta;Recursos turístico ;169
+01/02/2024;Castejón;Bicicletas;Vuelta;Recursos turístico ;97
+01/02/2024;Isaba;Peatones;Vuelta;Recursos turístico ;60
+01/02/2024;Izco;Peatones;Vuelta;Recursos turístico ;229
+01/02/2024;Izco;Bicicletas;Vuelta;Recursos turístico ;92
+01/02/2024;Izco;Coches;Vuelta;Recursos turístico ;122
+01/03/2024;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;3938
+01/03/2024;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;855
+01/03/2024;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1191
+01/03/2024;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2868
+01/03/2024;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;238
+01/03/2024;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2270
+01/03/2024;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;1112
+01/03/2024;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;340
+01/03/2024;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Álava;Vías Verdes - Eurovelo;887
+01/03/2024;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;550
+01/03/2024;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;242
+01/03/2024;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;10832
+01/03/2024;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;259
+01/03/2024;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;27
+01/03/2024;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu -Pamplona;Vías Verdes - Eurovelo;1237
+01/03/2024;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;3117
+01/03/2024;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;33
+01/03/2024;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;144
+01/03/2024;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;2889
+01/03/2024;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;65
+01/03/2024;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;418
+01/03/2024;Urederra;Peatones;Ida;Recursos turístico ;4381
+01/03/2024;Xorroxin;Peatones;Vuelta;Recursos turístico ;3563
+01/03/2024;Amaiur;Peatones;Vuelta;Recursos turístico ;3146
+01/03/2024;Bertiz;Peatones;Ida;Recursos turístico ;4486
+01/03/2024;Castejón;Peatones;Vuelta;Recursos turístico ;183
+01/03/2024;Castejón;Bicicletas;Vuelta;Recursos turístico ;152
+01/03/2024;Isaba;Peatones;Vuelta;Recursos turístico ;67
+01/03/2024;Izco;Peatones;Ida;Recursos turístico ;626
+01/03/2024;Izco;Bicicletas;Vuelta;Recursos turístico ;19
+01/03/2024;Izco;Coches;Vuelta;Recursos turístico ;217
+01/04/2024;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;4189
+01/04/2024;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;1123
+01/04/2024;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1210
+01/04/2024;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;3435
+01/04/2024;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;382
+01/04/2024;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2712
+01/04/2024;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;1127
+01/04/2024;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;565
+01/04/2024;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;1021
+01/04/2024;Via Verde Tarazonica (Cascante);Peatones;Cascante - Aragón;Vías Verdes - Eurovelo;468
+01/04/2024;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;291
+01/04/2024;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;8230
+01/04/2024;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;270
+01/04/2024;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;43
+01/04/2024;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;1206
+01/04/2024;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;10511
+01/04/2024;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;57
+01/04/2024;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;193
+01/04/2024;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;8507
+01/04/2024;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;201
+01/04/2024;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;364
+01/04/2024;Urederra;Peatones;Ida;Recursos turístico ;5758
+01/04/2024;Xorroxin;Peatones;Vuelta;Recursos turístico ;3155
+01/04/2024;Amaiur;Peatones;Vuelta;Recursos turístico ;2816
+01/04/2024;Bertiz;Peatones;Ida;Recursos turístico ;4982
+01/04/2024;Castejón;Peatones;Vuelta;Recursos turístico ;163
+01/04/2024;Castejón;Bicicletas;Vuelta;Recursos turístico ;141
+01/04/2024;Isaba;Peatones;Vuelta;Recursos turístico ;134
+01/04/2024;Izco;Peatones;Vuelta;Recursos turístico ;474
+01/04/2024;Izco;Bicicletas;Vuelta;Recursos turístico ;10
+01/04/2024;Izco;Coches;Ida;Recursos turístico ;155
+01/05/2024;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;3990
+01/05/2024;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;1042
+01/05/2024;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1263
+01/05/2024;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;3611
+01/05/2024;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;373
+01/05/2024;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2728
+01/05/2024;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;1125
+01/05/2024;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;587
+01/05/2024;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Álava;Vías Verdes - Eurovelo;965
+01/05/2024;Via Verde Tarazonica (Cascante);Peatones;Cascante - Tudela ;Vías Verdes - Eurovelo;702
+01/05/2024;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;376
+01/05/2024;Vía Verde Irati (Foz Lumbier);Peatones;Lumbier - Liédena;Vías Verdes - Eurovelo;7151
+01/05/2024;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;256
+01/05/2024;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;58
+01/05/2024;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;1189
+01/05/2024;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;12890
+01/05/2024;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;86
+01/05/2024;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;131
+01/05/2024;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;10591
+01/05/2024;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;244
+01/05/2024;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;490
+01/05/2024;Urederra;Peatones;Ida;Recursos turístico ;5700
+01/05/2024;Xorroxin;Peatones;Vuelta;Recursos turístico ;2627
+01/05/2024;Amaiur;Peatones;Vuelta;Recursos turístico ;2595
+01/05/2024;Bertiz;Peatones;Ida;Recursos turístico ;4139
+01/05/2024;Castejón;Peatones;Vuelta;Recursos turístico ;170
+01/05/2024;Castejón;Bicicletas;Vuelta;Recursos turístico ;147
+01/05/2024;Isaba;Peatones;Ida;Recursos turístico ;172
+01/05/2024;Izco;Peatones;Vuelta;Recursos turístico ;811
+01/05/2024;Izco;Bicicletas;Vuelta;Recursos turístico ;15
+01/05/2024;Izco;Coches;Vuelta;Recursos turístico ;194
+01/06/2024;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;4557
+01/06/2024;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;1238
+01/06/2024;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1330
+01/06/2024;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;4200
+01/06/2024;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;503
+01/06/2024;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;2732
+01/06/2024;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;1349
+01/06/2024;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;918
+01/06/2024;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;1189
+01/06/2024;Via Verde Tarazonica (Cascante);Peatones;Cascante - Tudela ;Vías Verdes - Eurovelo;737
+01/06/2024;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;316
+01/06/2024;Vía Verde Irati (Foz Lumbier);Peatones;Liédena - Lumbier;Vías Verdes - Eurovelo;7887
+01/06/2024;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;264
+01/06/2024;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;50
+01/06/2024;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu -Pamplona;Vías Verdes - Eurovelo;461
+01/06/2024;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;8010
+01/06/2024;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;68
+01/06/2024;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;75
+01/06/2024;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;6859
+01/06/2024;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;236
+01/06/2024;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;3129
+01/06/2024;Urederra;Peatones;Ida;Recursos turístico ;6114
+01/06/2024;Xorroxin;Peatones;Ida;Recursos turístico ;171
+01/06/2024;Amaiur;Peatones;Vuelta;Recursos turístico ;2398
+01/06/2024;Bertiz;Peatones;Vuelta;Recursos turístico ;2607
+01/06/2024;Castejón;Peatones;Vuelta;Recursos turístico ;77
+01/06/2024;Castejón;Bicicletas;Ida;Recursos turístico ;82
+01/06/2024;Isaba;Peatones;Vuelta;Recursos turístico ;14
+01/06/2024;Izco;Peatones;Vuelta;Recursos turístico ;570
+01/06/2024;Izco;Bicicletas;Vuelta;Recursos turístico ;4216
+01/06/2024;Izco;Coches;Vuelta;Recursos turístico ;1261
+01/07/2024;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;5811
+01/07/2024;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;1950
+01/07/2024;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1187
+01/07/2024;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;4773
+01/07/2024;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;597
+01/07/2024;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;3433
+01/07/2024;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;2820
+01/07/2024;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;1188
+01/07/2024;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;1418
+01/07/2024;Via Verde Tarazonica (Cascante);Peatones;Cascante - Tudela ;Vías Verdes - Eurovelo;662
+01/07/2024;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;299
+01/07/2024;Vía Verde Irati (Foz Lumbier);Peatones;Liédena - Lumbier;Vías Verdes - Eurovelo;8107
+01/07/2024;Vía Verde Irati (Foz Lumbier);Bicicletas;Liédena - Lumbier;Vías Verdes - Eurovelo;307
+01/07/2024;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;78
+01/07/2024;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu -Pamplona;Vías Verdes - Eurovelo;1165
+01/07/2024;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;7061
+01/07/2024;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;40
+01/07/2024;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;126
+01/07/2024;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;5536
+01/07/2024;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;196
+01/07/2024;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;751
+01/07/2024;Urederra;Peatones;Ida;Recursos turístico ;9237
+01/07/2024;Xorroxin;Peatones;Vuelta;Recursos turístico ;3662
+01/07/2024;Amaiur;Peatones;Vuelta;Recursos turístico ;4524
+01/07/2024;Bertiz;Peatones;Ida;Recursos turístico ;6801
+01/07/2024;Castejón;Peatones;Vuelta;Recursos turístico ;116
+01/07/2024;Castejón;Bicicletas;Ida;Recursos turístico ;150
+01/07/2024;Isaba;Peatones;Ida;Recursos turístico ;502
+01/07/2024;Izco;Peatones;Vuelta;Recursos turístico ;617
+01/07/2024;Izco;Bicicletas;Vuelta;Recursos turístico ;15
+01/07/2024;Izco;Coches;Ida;Recursos turístico ;243
+01/08/2024;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;6942
+01/08/2024;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;2307
+01/08/2024;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1238
+01/08/2024;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Pamplona;Vías Verdes - Eurovelo;5568
+01/08/2024;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;700
+01/08/2024;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;3753
+01/08/2024;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;2575
+01/08/2024;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;1339
+01/08/2024;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Álava;Vías Verdes - Eurovelo;1413
+01/08/2024;Via Verde Tarazonica (Cascante);Peatones;Cascante - Tudela ;Vías Verdes - Eurovelo;702
+01/08/2024;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;364
+01/08/2024;Vía Verde Irati (Foz Lumbier);Peatones;Liédena - Lumbier;Vías Verdes - Eurovelo;15704
+01/08/2024;Vía Verde Irati (Foz Lumbier);Bicicletas;Liédena - Lumbier;Vías Verdes - Eurovelo;536
+01/08/2024;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;68
+01/08/2024;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;1217
+01/08/2024;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;9129
+01/08/2024;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;60
+01/08/2024;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;148
+01/08/2024;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;6889
+01/08/2024;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;241
+01/08/2024;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;788
+01/08/2024;Urederra;Peatones;Ida;Recursos turístico ;10980
+01/08/2024;Amaiur;Peatones;Vuelta;Recursos turístico ;5624
+01/08/2024;Bertiz;Peatones;Ida;Recursos turístico ;10311
+01/08/2024;Castejón;Peatones;Vuelta;Recursos turístico ;131
+01/08/2024;Castejón;Bicicletas;Ida;Recursos turístico ;138
+01/08/2024;Isaba;Peatones;Ida;Recursos turístico ;520
+01/08/2024;Izco;Peatones;Vuelta;Recursos turístico ;1049
+01/08/2024;Izco;Bicicletas;Vuelta;Recursos turístico ;63
+01/08/2024;Izco;Coches;Ida;Recursos turístico ;210
+01/09/2024;Vía Verde Bidasoa (Doneztebe);Peatones;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;4336
+01/09/2024;Vía Verde Bidasoa (Doneztebe);Bicicletas;Doneztebe - Pamplona;Vías Verdes - Eurovelo;1047
+01/09/2024;Vía Verde Bidasoa (Doneztebe);Coches;Doneztebe - Gipuzkoa;Vías Verdes - Eurovelo;1140
+01/09/2024;Via Verde Plazaola (Irurtzun);Peatones;Irurtzun - Gipuzkoa;Vías Verdes - Eurovelo;4409
+01/09/2024;Via Verde Plazaola (Irurtzun);Bicicletas;Irurtzun - Pamplona;Vías Verdes - Eurovelo;466
+01/09/2024;Via Verde Plazaola (Irurtzun);Coches;Irurtzun - Pamplona;Vías Verdes - Eurovelo;6992
+01/09/2024;Via Verde Vasco-Navarro (Ancín);Peatones;Ancín - Álava;Vías Verdes - Eurovelo;1238
+01/09/2024;Via Verde Vasco-Navarro (Ancín);Bicicletas;Ancín - Estella;Vías Verdes - Eurovelo;822
+01/09/2024;Via Verde Vasco-Navarro (Ancín);Coches;Ancín - Estella;Vías Verdes - Eurovelo;1197
+01/09/2024;Via Verde Tarazonica (Cascante);Peatones;Cascante - Tudela ;Vías Verdes - Eurovelo;664
+01/09/2024;Via Verde Tarazonica (Cascante);Bicicletas;Cascante - Aragón;Vías Verdes - Eurovelo;333
+01/09/2024;Vía Verde Irati (Foz Lumbier);Peatones;Liédena - Lumbier;Vías Verdes - Eurovelo;5933
+01/09/2024;Vía Verde Irati (Foz Lumbier);Bicicletas;Lumbier - Liédena;Vías Verdes - Eurovelo;182
+01/09/2024;Eurovelo 1-Ederbidea (Gaztelu);Bicicletas;Gaztelu -Pamplona;Vías Verdes - Eurovelo;41
+01/09/2024;Eurovelo 1-Ederbidea (Gaztelu);Coches;Gaztelu - Gipuzkoa;Vías Verdes - Eurovelo;1196
+01/09/2024;Aurizberri-Espinal ;Peatones;Santiago de Compostela;Camino de Santiago;12010
+01/09/2024;Aurizberri-Espinal ;Bicicletas;Santiago de Compostela;Camino de Santiago;77
+01/09/2024;Aurizberri-Espinal ;Coches;Santiago de Compostela;Camino de Santiago;135
+01/09/2024;Puente la Reina-Gares;Peatones;Santiago de Compostela;Camino de Santiago;11289
+01/09/2024;Puente la Reina-Gares;Bicicletas;Santiago de Compostela;Camino de Santiago;240
+01/09/2024;Puente la Reina-Gares;Coches;Santiago de Compostela;Camino de Santiago;477
+01/09/2024;Urederra;Peatones;Ida;Recursos turístico ;5063
+01/09/2024;Xorroxin;Peatones;Vuelta;Recursos turístico ;2015
+01/09/2024;Amaiur;Peatones;Vuelta;Recursos turístico ;1739
+01/09/2024;Bertiz;Peatones;Ida;Recursos turístico ;5068
+01/09/2024;Castejón;Peatones;Vuelta;Recursos turístico ;293
+01/09/2024;Castejón;Bicicletas;Ida;Recursos turístico ;136
+01/09/2024;Isaba;Peatones;Ida;Recursos turístico ;178
+01/09/2024;Izco;Peatones;Vuelta;Recursos turístico ;629
+01/09/2024;Izco;Bicicletas;Vuelta;Recursos turístico ;14
+01/09/2024;Izco;Coches;Ida;Recursos turístico ;202

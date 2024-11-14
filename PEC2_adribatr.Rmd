@@ -1,0 +1,269 @@
+---
+title: "PEC2: Estudio de técnicas de visualización de datos"
+author: "Autor: Adrián Barrios Trujillo"
+date: "Visualización de datos - Aula 3"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# 0 Preparación del entorno de trabajo
+
+Instalamos y cargamos los paquetes necesarios para la ejecución de nuestro script:
+
+```{r libraries, echo=TRUE, message=FALSE, warning=FALSE}
+packages <- c("rstudioapi", "dplyr", "readr", "lubridate", "ggplot2")
+
+for (pkg in packages) {
+  if (!requireNamespace(pkg, quietly = TRUE)) {
+    install.packages(pkg)
+  }
+}
+
+library(rstudioapi)
+library(dplyr)
+library(readr)
+library(lubridate)
+library(scales)
+library(ggplot2)
+library(dendextend)
+library(circlize)
+```
+
+Obtenemos el directorio del script actual para poder leer posteriormente el conjunto de datos (importante que este script y el CSV con los datos estén en la misma carpeta):
+
+```{r path, echo=TRUE}
+path <- dirname(rstudioapi::getActiveDocumentContext()$path)
+```
+
+# 1 Primera visualización
+
+Para esta PEC2, la primera visualización que nos ha tocado emplear es la siguiente:
+
+GRUPO I (Técnicas básicas y populares): 114. Timeline
+
+## 1.1 Cargar el archivo de datos
+
+Emplearemos el conjunto de datos "contadores_de_turismo.csv" (renombrado), que se ha extraído desde la página principal de Datos abiertos del Gobierno de España (https://datos.gob.es/es/catalogo/a15002917-contadores-de-turismo). Los datos son sobre los contadores en Vías Verdes, Eurovelo, el Camino de Santiago y recursos turísticos, publicados por la Comunidad Foral de Navarra, y con una cobertura temporal desde 31/12/2018 hasta el 6/11/2024 (aunque adelantamos que los datos comienzan el 01/01/2019 y terminan el 01/09/2024):
+
+```{r 1.1, echo=TRUE}
+data <- read.csv(paste0(path, "/contadores_de_turismo.csv"), sep=";", header = T)
+```
+
+## 1.2 Estructura de los datos
+
+Comprobamos la estructura de los datos, para ver qué campos podemos emplear para el timeline:
+
+```{r 1.2, echo=TRUE}
+data %>% str()
+data$MES %>% unique()
+data$CONTADOR_TIPO %>% unique()
+```
+
+Según lo observado, podemos agrupar los meses por trimestres, y así recoger la evolución temporal de cada tipo de contador (peatones, bicicletas o coches) para visualizar dichos datos.
+
+## 1.3 Preparación de los datos
+
+Para la preparación de datos, eliminaremos las filas que tengan valores nulos o vacíos en MES y CONTADOR_TIPO (si las hay), y pasaremos el campo MES a tipo Date. Después de esto, creamos una columna nueva donde se recoge el año y el trimestre asociado a cada fila, y terminamos por agrupar los datos tanto por el trimestre como por tipo de contador - con esta información, obtendremos cuántos vehículos o peatones transcurren cada trimestre. El mismo procedimiento lo haremos también para recoger los datos anuales:
+
+```{r 1.3, echo=TRUE}
+data <- data %>% filter(!is.na(MES) & MES != "", !is.na(CONTADOR_TIPO) & CONTADOR_TIPO != "")
+data <- data %>% mutate(MES = dmy(MES))
+
+data <- data %>% mutate(TRIMESTRE = paste(year(MES), quarter(MES), sep = "-"))
+quarterly_data <- data %>%
+  group_by(TRIMESTRE, CONTADOR_TIPO) %>%
+  summarise(NUMERO_TRIMESTRE = sum(NUMERO, na.rm = TRUE), .groups = "drop") %>%
+  ungroup()
+
+data <- data %>% mutate(YEAR = year(MES))
+yearly_data <- data %>%
+  group_by(YEAR, CONTADOR_TIPO) %>%
+  summarise(NUMERO_YEAR = sum(NUMERO, na.rm = TRUE), .groups = "drop")
+```
+
+## 1.4 Visualización
+
+Con los datos preparados, procedemos a crear la visualización de tipo Timeline, donde podremos ver la evolución temporal de cada tipo de contador: 
+
+```{r 1.4, echo=TRUE}
+quarter <- ggplot(quarterly_data, aes(x = TRIMESTRE, y = NUMERO_TRIMESTRE, color = CONTADOR_TIPO, group = CONTADOR_TIPO)) +
+  geom_line(size = 1) +
+  geom_point(size = 2) +
+  labs(title = "Afluencia trimestral en rutas turísticas por tipo de contador",
+       x = "Trimestre",
+       y = "Número de personas/vehículos",
+       color = "Tipo de contador") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1), plot.title = element_text(hjust = 0.5))
+
+quarter
+
+year <- ggplot(yearly_data, aes(x = YEAR, y = NUMERO_YEAR, color = CONTADOR_TIPO, group = CONTADOR_TIPO)) +
+  geom_line(size = 1) +
+  geom_point(size = 2) +
+  labs(title = "Afluencia anual en rutas turísticas por tipo de contador",
+       x = "Año",
+       y = "Número de personas/vehículos",
+       color = "Tipo de contador") +
+  theme_minimal() +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  scale_y_continuous(labels = label_comma())
+
+year
+```
+
+## 1.5 Guardado de archivos
+
+Tras este procesamiento de datos y su visualización, guardaremos toda la información en la subcarpeta "Visualizacion_1".
+
+```{r 1.5, echo=TRUE}
+dir.create(paste0(path, "/Visualizacion_1/"), recursive = TRUE, showWarnings = FALSE)
+
+path_v1 = paste0(path, "/Visualizacion_1/")
+
+write.csv2(data, file = paste0(path_v1, "/contadores_de_turismo_final.csv"), row.names = FALSE)
+write.csv2(quarterly_data, file = paste0(path_v1, "/contadores_de_turismo_trimestral.csv"), row.names = FALSE)
+write.csv2(yearly_data, file = paste0(path_v1, "/contadores_de_turismo_anual.csv"), row.names = FALSE)
+ggsave(paste0(path_v1, "/visualizacion_1_trimestral.png"), plot = quarter, width = 10, height = 6, dpi = 300, bg = "white")
+ggsave(paste0(path_v1, "/visualizacion_1_anual.png"), plot = year, width = 10, height = 6, dpi = 300, bg = "white")
+```
+
+# 2 Segunda visualización
+
+La segunda visualización que nos ha tocado emplear es la siguiente:
+
+GRUPO II (Habituales y conocidas en ámbitos específicos i de expertos): 214. Circular dendrogram
+
+## 2.1 Cargar el archivo de datos
+
+Emplearemos el conjunto de datos "Zoo" del repositorio de la Universidad de California en Irvine o UCI (https://archive.ics.uci.edu/dataset/111/zoo). Este dataset es famoso por su uso en aprendizaje automático, tanto por su sencillez como facilidad para tratar los datos, así que es perfecto para mostrar la visualización sin demasiado tratamiento. En cuanto a los datos, contiene 101 observaciones de animales y 17 características, donde 16 son propiedades del animal y 1 es la etiqueta de clase. Como nota, originalmente cargamos los datos desde la URL directamente desde R, pero luego guardamos dicho archivos para poder trabajar sin tener que llamar de nuevo a dicha dirección: 
+
+```{r 2.1, echo=TRUE}
+#url <- "https://archive.ics.uci.edu/ml/machine-learning-databases/zoo/zoo.data" 
+#zoo_data <- read.csv(url, header = FALSE
+zoo_data <- read.csv(paste0(path, "/zoo_data.csv"), sep=";", header = T)
+```
+
+## 2.2 Sampleo de los datos
+
+Para realizar el dendrograma circular, hemos comprobado que la presencia de muchas observaciones diferentes puede empeorar la visualización. Como en esta PEC solo deseamos crear una visualización para demostrar su creación y uso, reduciremos los datos a 30 animales:
+
+```{r 2.2, echo=TRUE}
+set.seed(42)  # Para reproducir los datos escogidos
+sampled_zoo <- zoo_data[sample(1:nrow(zoo_data), 30),] %>% as.data.frame
+```
+
+## 2.3 Preparación de los datos
+
+También hemos visto que, en nuestro resultado final, podía repetirse algún animal en la clasificación, así que escogeremos los valores únicos de los nombres de los animales. Por otra parte, nos hemos encontrado que, a veces, "girl" aparece registrado como animal, así que también retiramos esa instancia. 
+
+Tras haber hecho esto, necesitamos calcular la distancia entre las muestras usando solo las características numéricas (es decir, omitimos "animal_name" y "type", las columnas 1 y 18). Con esta información, generamos el clustering jerárquico, y luego éste, en un objeto de dendrograma:
+
+```{r 2.3, echo=TRUE}
+sampled_zoo$animal_name <- make.unique(as.character(sampled_zoo$animal_name))
+sampled_zoo <- sampled_zoo[sampled_zoo$animal_name != "girl",]
+
+dist_matrix <- dist(sampled_zoo[, 2:17])
+hc <- hclust(dist_matrix)
+dend <- as.dendrogram(hc)
+```
+
+## 2.4 Visualización
+
+Con los datos preparados, procedemos a crear la visualización de tipo Circular dendrogram, donde podremos ver la jerarquía de cada animal: 
+
+```{r 2.4, echo=TRUE}
+dend <- color_branches(dend, k = 5)  
+dend <- set(dend, "branches_lwd", 2)  
+
+# Usamos etiquetas con los nombres de los animales
+labels(dend) <- sampled_zoo$animal_name[order.dendrogram(dend)]
+
+par(mar = c(4, 4, 4, 4))
+
+circlize_dendrogram(dend, labels_track_height = 0.1, dend_track_height = 0.7)
+title("Circular Dendrogram of Sampled Zoo Dataset")
+
+dendrogram_plot <- recordPlot()
+```
+
+## 2.5 Guardado de archivos
+
+Tras este procesamiento de datos y su visualización, guardaremos toda la información en la subcarpeta "Visualizacion_2":
+
+```{r 2.5_0, echo=TRUE, include=FALSE}
+replayPlot(dendrogram_plot)
+```
+
+```{r 2.5, echo=TRUE}
+dir.create(paste0(path, "/Visualizacion_2/"), recursive = TRUE, showWarnings = FALSE)
+path_v2 = paste0(path, "/Visualizacion_2/")
+
+write.csv2(zoo_data, file = paste0(path_v2, "/zoo_data.csv"), row.names = FALSE)
+write.csv2(sampled_zoo, file = paste0(path_v2, "/sampled_zoo.csv"), row.names = FALSE)
+
+png(paste0(path_v2, "/circular_dendrogram_zoo.png"), width = 800, height = 800)
+replayPlot(dendrogram_plot)
+dev.off()
+
+```
+
+# 3 Tercera visualización
+
+La tercera visualización que nos ha tocado emplear es la siguiente:
+
+GRUPO III (Menos habituales o más específicos): 317. Violin plot
+
+## 3.1 Cargar el archivo de datos
+
+Emplearemos el conjunto de datos "Breast Cancer Wisconsin", también del repositorio de la Universidad de California en Irvine o UCI (https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic). Los datos recogen información de 569 pacientes, sobre características de núcleos celulares en imágenes digitales de aspiración con aguja fina de masas mamarias; en otras palabras, datos con rasgos para identificar si un tumor es benigno o maligno. Posee 32 columnas, donde la primera es el ID del paciente y la segunda, la clasificación en maligno ("M") o benigno ("B"), mientras que el resto describen propiedades de los núcleos celulares presentes en las imágenes.
+
+```{r 3.1, echo=TRUE}
+url <- "https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data"
+breast_cancer_data <- read_csv(url, col_names = FALSE, show_col_types = FALSE)
+#breast_cancer_data <- read.csv(paste0(path, "/breast_cancer_data.csv"), sep=";", header = T)
+```
+
+# 3.2 Renombre de columnas
+
+Al trabajar directamente con el dataset, las columnas no coinciden con las mostradas en la página web, así que las renombraremos:
+
+```{r 3.2, echo=TRUE}
+colnames(breast_cancer_data) <- c("ID", "Diagnosis", "Radius_mean", "Texture_mean", "Perimeter_mean", "Area_mean", "Smoothness_mean", "Compactness_mean", "Concavity_mean", "Concave_points_mean", "Symmetry_mean", "Fractal_dimension_mean", "Radius_se", "Texture_se", "Perimeter_se", "Area_se", "Smoothness_se", "Compactness_se", "Concavity_se", "Concave_points_se", "Symmetry_se", "Fractal_dimension_se", "Radius_worst", "Texture_worst", "Perimeter_worst", "Area_worst", "Smoothness_worst", "Compactness_worst", "Concavity_worst", "Concave_points_worst", "Symmetry_worst", "Fractal_dimension_worst")
+
+```
+
+# 3.3 Visualización
+
+En este caso, nuestra visualización solo empleará los campo de "Diagnosis" y "Radius_mean" para su creación, y no necesitamos más transformaciones en estos datos, así que procederemos directamente a la visualización:
+
+```{r 3.3, echo=TRUE}
+tumor <- ggplot(breast_cancer_data, aes(x = Diagnosis, y = Radius_mean, fill = Diagnosis)) +
+  geom_violin(trim = FALSE) +
+  geom_boxplot(width = 0.1, fill = "white") +
+  labs(title = "Diagrama de Violin del Radio Medio por Diagnóstico",
+       x = "Diagnóstico",
+       y = "Radio Medio") +
+  theme_minimal() +
+  theme(plot.title = element_text(hjust = 0.5))
+
+
+tumor
+```
+
+# 3.4 Guardado de los archivos
+
+Por último, guardamos los archivos generados como en los apartados anteriores:
+
+```{r 3.4, echo=TRUE}
+dir.create(paste0(path, "/Visualizacion_3/"), recursive = TRUE, showWarnings = FALSE)
+path_v3 = paste0(path, "/Visualizacion_3/")
+
+write.csv2(breast_cancer_data, file = paste0(path_v3, "/breast_cancer_data.csv"), row.names = FALSE)
+ggsave(paste0(path_v3, "/visualizacion_3_tumor.png"), plot = tumor, width = 10, height = 6, dpi = 300, bg = "white")
+```
